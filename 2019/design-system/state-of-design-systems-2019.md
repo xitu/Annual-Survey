@@ -1,7 +1,7 @@
 > * 原文地址：[State of Design Systems 2019](https://medium.com/google-design/state-of-design-systems-2019-ff5f26ada71)
 > * 原文作者：[Jude Yew](https://medium.com/@jyew_22968)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-> * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/2021/state-of-design-systems-2019.md](https://github.com/xitu/gold-miner/blob/master/article/2021/state-of-design-systems-2019.md)
+> * 本文永久链接：[https://github.com/xitu/Annual-Survey/blob/main/2019/design-system/state-of-design-systems-2019.md](https://github.com/xitu/Annual-Survey/blob/main/2019/design-system/state-of-design-systems-2019.md)
 > * 译者：
 > * 校对者：
 
