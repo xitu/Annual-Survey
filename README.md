@@ -1,5 +1,7 @@
 # 年度总结
 
+如果在校对 PDF 上遇到了问题，欢迎查看 [PDF 校对帮助](pdf-proofreading-help.md)。
+
 ## 2020
 
 ### Github 年度开发者报告
