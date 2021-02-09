@@ -17,7 +17,7 @@
 ### 前端
 
 * [MDN Web Developer Needs Assessment 2020](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/MDN-Web-DNA-Report-2020.pdf)（待翻译）
-* [State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)（待翻译）
+* [State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 
 ------
 
