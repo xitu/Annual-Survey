@@ -18,6 +18,7 @@
 
 * [MDN Web Developer Needs Assessment 2020](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/MDN-Web-DNA-Report-2020.pdf)（待翻译）
 * [State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
+* [2021 年 JavaScript 测试框架回顾](https://github.com/xitu/gold-miner/blob/master/article/2021/a-review-of-javascript-testing-frameworks-in-2021.md)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 
 ------
 
