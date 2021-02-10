@@ -30,40 +30,39 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 你现在正在阅读的是网络上有关设计师和开发人员需求的全球性年度研究报告的第一版，是一份旨在塑造网络平台的未来的报告。
 
-在只有一个厂商的平台上，只需要有一个组织去研究开发人员的需求并决定将来如何实现这些需求就够了。但在网络这个平台上，要研究这些就不是那么简单的了。从浏览器厂商到研究行业标准的机构，网络这个话题需要多个组织一起参与功能决策。这导致变化可能会很慢才能产生，并意味着一些痛病之处可能需要很长时间才能解决。
+在只有一个开发者的平台上，其实也只需要有一个组织去研究开发人员的需求并决定将来如何实现这些需求就够了。但在网络这个平台上，要研究这些就不是那么简单的了。从浏览器厂商到研究行业标准的机构，网络这个话题需要多个组织一起参与功能决策。这导致变化可能会很慢才能产生，并意味着一些痛病之处可能需要很长时间才能解决。
 
 在与参与标准制定和负责具体措施的落实的开发者们的讨论中，总是能够反复听到一个声音："我们需要听到更多开发者们的想法"。
 
 这就是为什么 MDN Web 开发者需求评估渴求成为的：Web 开发者和设计师之声。
 
-Like the community, this assessment is not owned by a single organization. It was not tailored to fit the priorities of participating browser vendors, or to mirror other existing assessments. These findings are published under the umbrella of the MDN Product Advisory Board, and the survey used for data collection was designed with input from more than 30 stakeholders representing board member organizations including browser vendors, the W3C, and industry.
+就像 Mozilla 社区一样，这份评估并非只是由我们 Mozilla 所有。这份报告也远不只是缝合各个浏览器厂商的优先事项，或是现有其他评估的一份镜像。我们的这些发现是在 MDN 产品顾问委员会的指引下得出的，并且这个调查的数据来源是由超过 30 个利益相关者委员会成员组织包括浏览器厂商、W3C 以及相关产业组织一起设计的。
 
-This report would not exist without the input of more than 28,000 developers and designers from 173 countries who took the twenty minutes necessary to complete the survey. That’s more than 10,000 hours contributed by the community to provide an understanding of the pain points, wants, and needs of people working to build the web.
+如果没有来自 173 个国家的超过 28000 名开发者和设计师至少每人使用了 20 分钟完成调查，这份报告不会存在。也就是说，实际上社区贡献了超过 10000 小时的时长，帮助我们加深对 Web 开发者们对痛点、盼待与需求的理解。
 
-how browser vendors prioritize feature development to address  
-the needs of designers and developers, both on and off the web. By producing this report annually, it will be possible to track changing needs and pain points over time, enabling all stakeholders to see the impact of their efforts on the future of the web.
+受访者们贡献的数据实际上已经在改变着浏览器厂商的功能开发的优先程度，以更好的定位并处理开发者和设计师们的需求，包括 Web 上与否。通过每年制作这样一份报告，跟踪这段时间的变化的需求与痛点变的可能，让所有利益相关者看到他们在构建 Web 的明天上所付出的努力的价值。
 
-## Study Participants
+## 调查参与者
 
-### Target
+### 受访者对象
 
-For the first iteration of the Developer Needs Assessment, our focus was people who spend at least some of their time writing code for the Web. This includes developers and designers. Inherent in this target audience is a selection bias of those who are working on the Web today. The voice of those who have abandoned the platform, whether because of dissatisfaction or other reasons, is left to future iterations of this study. Similarly, those who cannot or do not choose the Web platform are not a part of this study.
+对于这份开发者需求评估的第一代，我们关注点放在了至少花了他们一部分时间编写 Web 代码的人们（准确来说，包括了开发者和设计师们）。在目标读者之中其实偏向的是现在正与 Web 一起工作的人们。他们的声音被平台们所遗弃过，不管是因为无法满足还是别的原因，将由这份评估的未来的版本所揭晓。同样的，那些不能或并没有选择 Web 平台的人们，并不是本次研究的一部分。
 
-### Recruited
+### 数据来源
 
-When the survey launched, it was announced on MDN as well as through tweets and other social network posts of the MDN community. The initial responses are the most diverse as participants were drawn in through the various social network promotions. As time progressed, the banner on MDN remained and was the prominent recruiting vehicle. The active publicity on MDN created another selection bias towards those who use MDN. However, MDN serves a large percentage of the developer and designer community.
+当这项调查最初开始的时候，我们在各个平台的 MDN 的账号上通过发推特或是 MDN 社区的其他帖子上宣传这项调查的。最开始的回应是最多样化的，受访者被分进了不同的来源渠道并打成了平局。随着时间的推移，MDN 官网上的横幅仍然挂在那里，也称为最突出的流量来源。MDN 的积极的宣传让受访者群体偏向了让那些关注使用 MDN 的人们，但毕竟 MDN 服务的是大多数的 Web 开发者和设计师群体啊，因此这份数据极其可观，也颇具研究价值。
 
-### Actual
+### 实际数据
 
-The survey had 76,118 responses. Of those, 28,474 counted as complete responses for a completion rate of 37.4%. Partial and disqualified responses were not included in the analysis.
+这份调查实际有 76118 名受访者填写，28474 份（37.4%）完整作答。部分作答或是低质量的作答并不包含在统计数据中。
 
-### Survey Responses
+### 调查结果
 
 ![P9](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p9.svg)
 
-The completed responses are further broken down by gender, region, country, type of developer, and experience level on the following pages.
+完整的调查结果被按照性别、地区、国家、开发者类型和熟悉程度被进一步在下文中被分类。
 
-### Survey Responses By Gender
+### 按照性别分类
 
 ![P10](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p10.svg)
 
