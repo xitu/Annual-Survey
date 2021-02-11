@@ -234,192 +234,192 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 25. 让用户授权使用 Web API（例如获取地理位置）。
 26. 决定接下来学习什么以保持我的技能相关。
 27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复 
+28. 在发现 bug 后修复
 
-### Segmented View of the Needs Ranking
+### 需求排名的不同看法
 
-The Overall Needs Ranking shows how the general population, the 28,474 completed survey responses, ranked the 28 needs.
+上述的排名是按照所有一共 28474 份完整作答的调查数据总结而出的，一共排序了 28 条
 
-The data is further analyzed by different segments to provide a more nuanced view. When seeing the differences, keep in mind that devi- ation from the general population is not good or bad; it’s just a visual representation of the actual data.
+这份数据将会在更进一步的被分析，为大家提供一份更细致的评价。当看到这些分析结论之间差距的时候，请牢牢记住，这些偏差并不能说明好坏，只是实际数据上不同呈现方式所导致的。
 
-The segments included in this report are:
+我们的数据会被按照以下类别继续细化：
 
-**Country** \- The seven shown are there because they are the countries that have the most traffic on MDN, the primary recruiting vehicle used for the survey.
+**国家** - 显示这七个国家的原因是，他们是 MDN 网站，也就是本次活动流量最大的来源上，拥有访问者最多的国家。
 
-**Gender** \- When looking at the results, remember the percentage of respondents who selected “Man” when asked about the gender they identify with (87.1%) and the rate of respondents who selected “Woman” (8.2%). More respondents chose “Man,” which helps explain why when filtering the needs list by gender, men’s ranking of the needs doesn’t differ from the general population and women do. Again, differing from the general population is not good or bad; it’s just a visual representation of the data.
+**性别** - 当我们看到这些结论，我们需要记住，受访者们选择性别的比例 —— 男性 87.1%，女性 8.2%。这也很好地解释了，为什么男性的需求列表与总体的需求列表出入不大，而女性的与总体的区别比较大。同样的，这些差距并不代表好与坏，只是实际数据上不同呈现方式所导致的。
 
-**Satisfaction with the Web** \- In the survey, we asked respondents to rate their overall satisfaction with the Web as a platform and set of tools (more on this starting on page 27) using a Likert scale from very satisfied to very dissatisfied. This segmentation includes those who were very satisfied and satisfied compared to those who are dissatisfied and very dissatisfied.
+**对 Web 的满意度** - 在这次调查中，我们让受访者对 Web 作为平台和一系列工具（查看下文，图 27）使用做出评价，并使用李克特量表从最不满到最满意作出分类，包括了非常满意、满意、不满意、非常不满意。
 
-**Years of Experience** \- We provided data for those who have two years or less experience writing code for the Web and those with ten or more years of experience.
+**熟练程度（使用年数）** - 我们提供了选项 —— 两年或更少，以及十年或更多等各种选项。
 
-**Type of Front End Developer** \- Survey respondents were able to pick which type of developer best describes them, and there were two options for Front End Developers. Those who primarily write code using JavaScript and those who primarily use HTML and CSS. We provided the difference in need ranking for these two.
+**开发者的类别** - 受访者在问卷中还勾选了最能够描述他们的开发者类型，而对于前端开发者来说有两种，JavaScript 开发者和 HTML、CSS 开发者。
 
-### Needs By Country
+### 按国家分类
 
 ![P21](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p21.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复
 
-### Needs By Gender
+### 按性别分类
 
 ![P22](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p22.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复
 
-### Needs By Satisfaction with the Web
+### 按满意程度分类
 
 ![P23](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p23.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复
 
-### Needs By Years of Experience
+### 按工作经验分类
 
 ![P24](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p24.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复
 
-### By Front End Developer
+### 前端开发者想法
 
 ![P25](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p25.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复
 
-### How Developers Felt About the Needs List
+###  Developers Felt About the Needs List
 
 ![P26](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p26.svg)
 
