@@ -419,21 +419,21 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 27. 寻找一个同龄人群体。
 28. 在发现 bug 后修复
 
-###  Developers Felt About the Needs List
+### 开发者对需求列表的感受
 
 ![P26](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p26.svg)
 
-Because the Developer Needs Assessment is intended to be reproduced annually, we asked survey respondents whether the list of 28 needs was a fair representation of the needs they experience as a web developer. While most respondents agreed the list was representative, 21.6% neither agreed nor disagreed which means there is room for improvement in the needs list.
+因为开发者需求评估是准备要每年都发布一份的，我们询问了受访者这 28 个需求的列表对一个 Web 开发者来说是否是一个非常公平的结果。大多数的受访者都赞同这个列表具有代表性，21.6 % 持中性态度，意味着我们还有大量的空间去优化这份列表。
 
-## Overall Satisfaction With the Web
+## 对于 Web 的总体满意度
 
 ![P28](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p28.svg)
 
-Through this project, we wanted a way to measure how satisfied web developers and designers are with the Web as a platform. We wanted this to be a repeatable question to measure changes in satisfaction over time.
+通过这个项目，我们想要一种合适、恰当的方法来衡量 Web 开发人员和设计人员对 Web 作为平台的满意程度。我们希望这是一个可在未来重复再现的问题，以衡量满意度随时间的变化。
 
-We asked survey respondents, “How would you rate your overall satisfaction with the Web, as a platform and set of tools, to enable you to build what you need or want?”
+我们问受访者：“你如何评价作为一个平台和工具集使用 Web 构建你所需的内容的总体满意度？”
 
-We learned that a majority, 76.1%, of respondents are either very satisfied or satisfied with the Web, whereas 9% are either very dissatisfied or dissatisfied.
+从数据反映到，大多数的受访者（76.1％）对 Web 是非常满意或满意的，而 9％ 的受访者对此非常不满意或不满意。
 
 ## What’s Missing From the Web
 
