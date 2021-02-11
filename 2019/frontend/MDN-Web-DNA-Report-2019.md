@@ -1227,39 +1227,39 @@ Though there are things to look forward to, there is a concern, and it’s not c
 
 *“My hardest \[job as a teacher\], what I’m trying to do...is to convince \[my students\] not to go to W3schools.com and just do an example-driven web development. My students typically think they can Google every solution, while I try to explain to them that they should first use their brain before they do something. I think they would tell me that the web is some copy and paste place and they would throw all these computer science rules overboard and just try to copy from existing projects.”*
 
-## Conclusion
+## 结论
 
-All of the organizations behind this first iteration of the Developer Needs Assessment could not be more grateful for the 28,474 people who completed the survey, plus those who partially completed the survey. And, last but not least, the fourteen pilot interview participants, without whom, the survey would not have been possible.
+感谢所有组织以及完成调查的 28474 人，以及完成了部分调查的受访者们，帮助我们一起构成了开发人员需求评估的第一版，而且，尤其感谢的是十四次访谈预演的受访者，没有他们的共同参与，调查就不可能进行下去～
 
-This study was an opportunity for participants to influence how organizations like Mozilla, Google, Microsoft, Samsung, and the W3C prioritize feature development and standards.
+这项研究为参与者提供了一个机会来影响 Mozilla、Google、Microsoft、Samsung 和 W3C 等组织考虑功能开发和标准的优先程度。
 
-The first version of the Developer Needs Assessment ended with valuable information that organizations can use to create a better experience for developers and designers who work on the Web. Since this was the first time the study was conducted, the findings are new to the organizations behind the work. We’re still evaluating how best to use the results to influence feature development and standards. That said, we’re happy to share the initial actions organizations are taking to improve developer and designers’ experience working on the Web.
+开发人员需求评估的第一版以有价值的信息作为结尾，让组织可以使用这些有价值的信息为在 Web 上工作的开发人员和设计人员创造更好的体验。由于这是首次进行研究，因此该发现对工作背后的组织来说是全新的。我们仍在评估如何最好地利用结果来影响功能开发和标准。我们真的非常高兴分享组织为改善开发人员和设计师在网络上工作的经验而采取的初步行动。
 
 **Google**
 
 *“The Google web platform team is now using Developer Satisfaction (DSAT) as one of our top-level success metrics. We are excited to be using the MDN DNA as one of the main sources of data to help us to understand and prioritize the key areas of developer frustration.”*
 
-**\- Rick Byers, Director of Engineering for Blink, Web Platform Team**
+**- Rick Byers, Director of Engineering for Blink, Web Platform Team**
 
 *“Google has been working with other Chromium contributors, such as Intel, to bring access to hardware capabilities to the web, from cameras and sensors to gamepad, USB and Bluetooth APIs. We believe that any task users want to accomplish with their devices should be possible with the web, so are continuing to work on web standards to* *expose additional sensors, Serial, HID, NFC, and more.”*
 
-**\-Joshua Bell, Technical Lead/Manager, Web Platform Team**
+**- Joshua Bell, Technical Lead/Manager, Web Platform Team**
 
 **W3C**
 
 *“Early reports from the survey provided valuable input to several standardization and pre-standardization discussions at W3C’s big annual meeting (TPAC). We anticipate the published report will continue to support standards progress.”*
 
-**\-Wendy Seltzer, Strategy Lead**
+**- Wendy Seltzer, Strategy Lead**
 
 **Mozilla**
 
 *“In the Firefox team we are always listening to our community’s needs in order to make product decisions. The comprehensive overview of the developer community’s needs provided by the MDN DNA report is therefore absolutely essential to us and we are already incorporating its findings into our plans.”*
 
-**\- Panagiotis Astithas, Sr. Engineering Manager, Firefox Developer Experience**
+**- Panagiotis Astithas, Sr. Engineering Manager, Firefox Developer Experience**
 
-Beyond individual organization’s actions, and recognizing that interoperability is a major pain point for web developers, major browser vendors are working together on cross-browser test suites like web-platform-tests and Test262. The group working on web-platform-tests have taken, as a 2020 priority, to identify and fix the most important test failures and improve the quality of the test suite.
+除了个人组织的行为以及互操作性是 Web 开发人员的主要痛点，主要的浏览器供应商正在合作开发跨浏览器测试套件，例如 Web 平台测试和 Test262。从事网络平台测试的小组已将2020年作为优先事项，以识别和修复最重要的测试失败并提高测试套件的质量。
 
-## 方法
+## 调查和整理方法
 
 考虑到预演的访谈给我们了一个由表及里的视角，构造我们的第一代的 DNA 调查报告，我们想提供一个关于我们如何在各个方面进行访谈的方法的文章。
 
@@ -1300,8 +1300,6 @@ Beyond individual organization’s actions, and recognizing that interoperabilit
 如果受访者允许，我们的采访都被录制，并拍摄了每一个创建的工件。
 
 **分析**
-
-Following the interviews, Pinpoint began analysis, which started with detailed coding of the transcribed interviews. They read through each interview transcript to review the narrative — what did the participant choose to talk about? What was interesting? How do they frame things? What’s unique about their language? How do they want to be perceived?
 
 在访谈之后，Pinpoint 开始了他们的分析 —— 从对转录的访谈进行详细的编码开始。他们会通读每一份采访记录来回顾叙述 —— 参与者选择谈论什么？有趣的是什么？他们是如何构造事物的？他们的语言有什么独特之处？他们希望别人怎么看待他们？
 
