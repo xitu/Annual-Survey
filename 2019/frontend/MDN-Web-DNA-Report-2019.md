@@ -465,7 +465,7 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 接下来的几段是简短的描述，除了标题以外，还进一步解释了类别，以及调查问卷中的详细内容。我们选择了最能体现该类别更深层含义的普通词汇。
 
-### Access to Hardware
+### 对硬件的访问
 
 Many of the answers categorized as access to hardware said simply that. Respondents wrote in answers such as, “access to hardware.” Some responses included more context. Access to hardware APIs was a common response. Other common requests were access to contacts, calendars, and the camera. Verbatims that best capture the deeper meaning of the category:
 
@@ -475,7 +475,7 @@ Many of the answers categorized as access to hardware said simply that. Responde
 
 * Better access to hardware. We do a lot of scanning, it would be super helpful if there were an easier way to go from a scan to a canvas, to reading what is marked on a page.
 
-### Browser Compatibility
+### 浏览器兼容
 
 Answers in this category asked for consistency in cross-browser compatibility, and across various devices and platforms. Another common desire was for better testing across browsers. CSS and JavaScript are the two most referenced languages in context to Browser Compatibility. Verbatims that best capture the deeper meaning of the category:
 
@@ -487,7 +487,7 @@ Answers in this category asked for consistency in cross-browser compatibility, a
 
 * Create the same experience across browsers without worrying about CSS caveats. It’s beyond infuriating coding in Chrome, turning to IE11 where everything is messed up.
 
-### Access to Filesystem
+### 对文件系统的访问
 
 Access to Filesystem could have been a subcategory of Access to Hardware, however the sheer volume of responses asking for access to the filesystem felt large enough to make this its own category. Many of the answers categorized with Access to Filesystem said simply that. Some answers acknowledge that users might need to grant permission before gaining access to the filesystem. Verbatims that best capture the deeper meaning of the category:
 
@@ -499,7 +499,7 @@ Access to Filesystem could have been a subcategory of Access to Hardware, howeve
 
 * Handle the system files (to allow a user to work locally while having an online web application without Node.js)
 
-### Performance
+### 性能
 
 Respondents talked about performance in different ways. Some referenced knowing a users’ bandwidth capacity. Other referred to specific programming languages, most notably JavaScript. Performance was also measured compared to the speed of native apps. Verbatims that best capture the deeper meaning of the category:
 
@@ -513,7 +513,7 @@ Respondents talked about performance in different ways. Some referenced knowing 
 
 * Accurately determine a user’s current bandwidth capacity.
 
-### PWA Support
+### 对 PWA 的支持
 
 Most responses categorized as PWA Support were about the lack of support and the desire to see full support. Not all vendors offer the same support for PWAs, which creates frustration for developers. Another common answer is having PWA as an option in app stores. Verbatims that best capture the deeper meaning of the category:
 
@@ -525,7 +525,7 @@ Most responses categorized as PWA Support were about the lack of support and the
 
 * Have installable apps appear in app stores.
 
-### Debugging
+### 调试
 
 Respondents who wrote answers about debugging often wanted better tools to make it easier and more convenient to debug from capturing bugs to resolving bugs. Verbatims that best capture the deeper meaning of the category:
 
@@ -537,7 +537,7 @@ Respondents who wrote answers about debugging often wanted better tools to make 
 
 * Mobile debugging.
 
-### Access to Native APIs
+### 对原生 API 的支持
 
 Answers categorized as Access to Native APIs were similar to Access to Hardware or Access to Filesystem in that developers wanted integration with a device OS. Also, having web apps behave more like native apps. Verbatims that best capture the deeper meaning of the category:
 
@@ -549,9 +549,9 @@ Answers categorized as Access to Native APIs were similar to Access to Hardware 
 
 * I would like Web Apps to be more native.
 
-## Technologies
+## 技术
 
-### Programming Languages
+### 程序语言
 
 As core technologies for the web, we wanted to understand developers’ pain points using JavaScript, HTML, CSS, and WebAssembly.
 
@@ -575,29 +575,29 @@ of grief when using the language to create layouts. Another way to interpret thi
 
 ![P42](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p42.svg)
 
-### WebAssembly
+### WASM WebAssembly
 
 WebAssembly is a new technology, so only a handful of respondents, 851, which is just shy of 3% of the completed responses, had experience enough to respond. The results below are from a much smaller sample than those for JavaScript, HTML, and CSS. The largest pain, with 51.4% is a lack of debug tooling support.
 
 ![P43](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p43.svg)
 
-### Adoption of New Technologies
+### 对新技术的包容程度
 
 The biggest barrier developers face when adopting new technology is broad interoperability across browsers. This is in-line with the top ten needs where four had to do with browser compatibility.
 
 ![P45](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p45.svg)
 
-### Browsers
+### 浏览器
 
 Chrome and Firefox lead the pack in terms of browsers developers support, 97.5% and 88.6% respectively. Third is Safari at 59.6%.
 
 ![P47](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p47.svg)
 
-## Pilot Interview Findings
+## 预演调查的结果
 
-### Enhanced View of the Top Ten Needs
+### 前十个需求的更深入挖掘
 
-### Browser Compatibility
+### 浏览器支持
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg)
 
@@ -650,7 +650,7 @@ Though not captured as a need statement by itself, at the crux of browser compat
 
 *“\[Browser compatibility is\] an implicit point where it is so important because everyone should have the same experience.”*
 
-### Documentation
+### 编写文档
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg)
 
@@ -669,7 +669,7 @@ Documentation was one of the reasons why developers dislike frameworks. They fin
 *“...nobody tells us what is the optimal way to use \[a framework\]. It took me a lot of time to understand how to format my bootstrap file...this  
 is the tree I have to make to make sure that it is optimal and it can be used by multiple different devices. That is something nobody tells us, exactly...That’s something I really like about Vue.JS they tell how to use it optimally.”*
 
-### Debugging
+### 调试
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg)
 
@@ -687,7 +687,7 @@ The frustrations developers experience with debugging are more about the time it
 
 *“Debugging is just frustrating because if you are already debugging, you’ve done something wrong. You shouldn’t write to the point where you debug, you should just test so that you don’t waste time debugging...it’s important because if you are debugging that means there’s something that’s not working right that’s bothering you. Hopefully, you catch it before it’s live.”*
 
-### Frameworks
+### 框架
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg)
 
@@ -723,7 +723,7 @@ Participants mentioned browser-based APIs, web components and object-oriented Ja
 
 *“I believe in web components. It will be nice if \[ frameworks\] are not going to be as important as before.”*
 
-### Privacy
+### 隐私
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg)
 
@@ -757,7 +757,7 @@ Beyond the laws and regulations surrounding privacy, the pilot interviews reveal
 
 *a user it ought to be more precise about exactly what it’s going to do and what it won’t do...it’s just creepy.”*
 
-### Security
+### 安全性
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg)
 
@@ -802,9 +802,9 @@ The third thing we heard about security is a two-way relationship with users. If
 
 As you can see with the perception that security feels like a hack and being tied to customer logins, security is closely related to needs or frustrations that might arise due to the pace of change of the web and authentication.
 
-### Enhanced View of the Remaining Needs
+### 对剩下的需求的更深入挖掘
 
-### Testing
+### 测试
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg)
 
@@ -839,7 +839,7 @@ The types of tests developers run varies as do the tools they use to test.
 
 *“...on the testing side, all of the angular testing tools they just flatten out all of your asynchronous code, and magically make it synchronous so that you can understand it and follow the flow more easily.”*
 
-### Authentication
+### 验证
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg)
 
@@ -857,7 +857,7 @@ Authentication was often described as difficult and frustrating for a variety of
 
 *“Setting up authentication is either a bit of a nightmare if you’re doing it yourself, or it’s incredibly simple, if you’re willing to just divest yourself of control over everything, just a leitmotif, a theme in web development.”*
 
-### Performance
+### 性能
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg)
 
@@ -901,7 +901,7 @@ During the kickoff, stakeholders had questions about what it means to be perform
 
 *“\[When\] we’re talking about the entire system as a whole, they are different aspects of performance...from a web developers point of view, we need to make sure that \[our users\]...believes that, even if it takes longer than it should, \[it\] doesn’t feel like it takes a very long time.”*
 
-### Localization
+### 本地化
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg)
 
@@ -917,7 +917,7 @@ can account for that when designing input fields or understanding date and time 
 
 *“Localization can be difficult because sometimes you have to render the page from right side to left side, it’s not left to right. There are several steps involved. Typically that can \[create\] a little bit of frustration if you want to do localization in a language that you don’t know well. For example, a person who knows Spanish can do the localization well if he knows English and Spanish. If they don’t know Spanish, and if they had to do it, I think it there might be a little bit of frustration.”*
 
-### Pace of Change
+### 变化速度
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg)
 
@@ -939,7 +939,7 @@ Not all change is bad, as change can lead to advancements in technology and more
 
 *“...frameworks that are used for web development, in large part have to do with the efficiency of doing certain tasks that are currently popular and have not been efficient before... like encryption, were the MD5 checksum was discovered to be imperfect, at some point, cryptologically speaking...anyone who used it for extremely secure purposes needed to stop, which is stressful...that had to do with more of an advancement in math, which wasn’t anybody’s fault...I worry that an existing technology would be obsolete artificially quickly. If it was used in a form, or if your projects were dependent on it.”*
 
-### Accessibility
+### 无障碍
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg)
 
@@ -953,11 +953,11 @@ Similar to authentication, accessibility, developers described it as difficult a
 
 *“I would say the level of frustration that \[accessibility\] generates is greater than its level of importance, and it is important. Without minimizing its importance, it is important, you should be able to access web technologies, regardless of whether you have a visual, physical, or cognitive impairment. Currently, ARIA and web accessibility specs are a mess. We get accessibility audits that will be contradictory between each other. It is important and the way it is currently implemented... and the way the specs are interpreted (or not interpreted) and are clear (or not clear) is just a nightmare.”*
 
-### Outliers
+### 框架大纲
 
 Some of the pilot interview findings shed light on needs that are outliers, which were not tested in the survey. We include them here as they are things that some web developers have to wrestle with, and that can cause frustration.
 
-### Ops
+### 运维
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
 
@@ -973,7 +973,7 @@ The audience who participated in the pilot interviews found Ops to be a source o
 
 *...if your Ops are fine \[then\] handling many, many deployments is not going to be too stressful because if your operations are fine, deploying a lot...it’s just not stressful, it’s just something you have to get comfortable doing.”*
 
-### Tools
+### 工具
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
 
@@ -1003,7 +1003,7 @@ Obviously, \[tools are\] important because I’m using them all day, every day. 
 
 *“The rest of the DevTools in the browsers are the most important thing I need, and they seem to be flaky a bit...little user interface issues that just make it frustrating...They’re definitely getting better and it feels bitchy to complain about them when I’m getting them for free. The browser manufacturers are companies that are trying to make money just like everyone else, and the browser is in a market. I guess the DevTools tools are there to encourage developers to develop for their platform a bit more, but it still feels like it’s a nice thing they’re doing for us, rather than a core thing...I probably should expect them to do it if they want me to their platform.”*
 
-### Working With Others
+### 与他人协作
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
 
@@ -1023,7 +1023,7 @@ Some of the pilot interview participants work on a team with others, which can c
 
 *“Debugging, I don’t have a ton of tools based frustration or product based frustration with it. Mostly just reading other people’s, and I count \[me\] from six months ago as other people, their poorly commented spaghetti code.”*
 
-### Hiring Web Developers
+### 雇佣 Web 开发者
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
 
@@ -1037,7 +1037,7 @@ We learned during the pilot interviews that different regions of the world have 
 
 *“...we’ve hired three developers that didn’t work out...some of them... lied on the resume. They said they were good at certain aspects of technology where they weren’t. Because of that...we had different expectations of them and they weren’t very motivated to learn.”*
 
-### Infrastructure Variance
+### 基础设施建设的不同
 
 ![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
 
@@ -1045,7 +1045,7 @@ This refers to intermittent power outages that affect business decisions, e.g., 
 
 *“Early on, there was a decision not to deploy into the cloud because our parent company has his own data center, and the data center is located in \[a country where\] we have issues that sometimes the power goes out, or sometimes there is a network outage. It is a developing country \[it\] doesn’t have the same stability as you find in North America or Europe. We are looking into alternatives and whether or not we should be moving more of our services to the cloud, and how we can make things more stable.”*
 
-### Overcoming Frustrations
+### 克服沮丧
 
 After exploring the topics that cause web developers frustration, but are also important to their work, the conversation shifted, focusing on the resources they use to overcome these frustrations. Two dominant resources help developers overcome frustrations. The first is a community of peers, typically personal acquaintances or acquaintances with few degrees of separation. The second is tapping into the resources available online.
 
@@ -1071,7 +1071,7 @@ Google, MDN, Reddit, Stack Overflow, W3Schools, and YouTube. Part of what makes 
 
 *“Documentation is \[the central thing for helping me overcome frustration\] partly because...you think you knew something but then after reading up on said feature or said documentation, it’s like, ‘Ah, I should be implementing it this way,’ rather than a learned know-how, so to speak.”*
 
-### Needs Are Situational
+### 需求是有情景的
 
 When it comes to web development, developers experience myriad frustrations, which can represent opportunities for browser vendors to address that frustration and thereby fulfilling a need.
 
@@ -1113,9 +1113,9 @@ The type of project a developer works on can create or eliminate frustrations be
 
 *“I’m basically trying to run a web server host some HTML, JavaScript, CSS, and deliver this to my clients. So just keeping a single web server up and running. It’s easier than having a complex framework of micro- services powering my application.”*
 
-### Broader Picture
+### 更广的看待
 
-### Externalities
+### 外在
 
 The evolution of the web has led to the state of affairs where developers can pay for services, such as hosting, which reduces the need to own and maintain all of the infrastructure that was previously required to put something online. However, each piece you don’t own creates a dependency on someone or something external to your work. Dependencies present risks, and developers have to decide whether the tradeoff is worth it or not. While the upside is that making things for the web is much faster and easier, there’s a fear that their work might become obsolete should something happen to those who they are externally dependent on.
 
@@ -1126,7 +1126,7 @@ provider disappeared, would your company also disappear? Like, if Amazon just po
 
 *“...my brother \[a developer\] feels he is at the whim of the creators of browsers...the concern is at some point, something that his work relies on will be obsolete by a decision that Google makes...or a decision that Microsoft makes...it’s a little scary that things advance quickly...the thing that concerns me about changes \[is that\] updates would have to be made on account of third parties, such as the creators of the browsers... you don’t have as much control over, for example, like the version of a compiler that you use, which is static...I’m referring to the obsolescence of technologies that people at one point relied on heavily...it’s hard to predict which existing technology...will end up being the one in which a flaw is uncovered and a great deal of work left to be done to move to something else.”*
 
-### Browser Reborn
+### 浏览器的重生
 
 Developers have noticed that browsers are getting better, with Internet Explorer (IE) as the exception. Developers realize this wasn’t just a kind move on the part of browser vendors to make developers’ lives easier; they understand browsers have grown in monetary importance for their creators.
 
@@ -1146,7 +1146,7 @@ On the flip side, some developers see competition creating more compatible brows
 
 *“...I would love to see Mozilla and Chrome competing with each other to improve the web, I see that the two are basically trying to improve the standard, I like it very much that there is no fixed standard anymore.”*
 
-### Knowing How Things Work
+### 明白原理
 
 Web developers understand the Web, and the surrounding ecosystem is continually changing. With that comes pros and cons. Considering, in most cases, it is their livelihood; there is a strong desire to maintain some semblance of control and understanding of their work. One way developers do this is to invest time in understanding how things work — beyond the abstractions that modern conveniences such as frameworks present. Understanding the basics boosts developers’ confidence that they can handle something when issues arise.
 
@@ -1161,7 +1161,7 @@ you will use basics even \[as a\] senior...it’s really easy to make a basic mi
 
 *“If I learn something like basic JavaScript, then I think I can switch to different frameworks.”*
 
-### Experienced Developers Recognize Improvements
+### 经验丰富的开发者认识到改进
 
 Much of this report’s focus is on the needs of developers and what causes frustrations. These frustrations are representative across many years of experience from a beginner (less than a year) to seasoned (ten or more years). Developers who fall into, or near, the seasoned camp recognize that things on the Web are better, compared to when they first started. Improvements run the gamut from tooling, deployment, debugging, layout, privacy, ES6, etc.
 
@@ -1185,7 +1185,7 @@ Much of this report’s focus is on the needs of developers and what causes frus
 
 Keep in mind that while there are recognition and appreciation for how things have gotten better over time, it does not mean things are perfect. Some improvements are what lead to the current environment where developers are facing trade-offs when deciding how much to divest their control into external, third party products and services. That and the pace of change can be overwhelming.
 
-### What’s Missing From the Web
+### Web 的缺失
 
 The same group of seasoned developers had thoughts on what is currently missing from the web. These are similar things to what was captured in survey findings and are included here to provide verbatims with more context. In addition to what’s missing, this group had thoughts on opportunities for improvement.
 
@@ -1201,7 +1201,7 @@ Access to hardware is something that the web is missing, as well as push notific
 
 *“This is a very personal opinion from a computer science guy...a more event-based browser to browser model, like in the web RTC environment. If I could place anything on the list, I would say, browser to browser communication, serverless communication applications. This is something I would like to see in the future so that basically you don’t need a web server, just bring two people together like web RTC.”*
 
-### The Future of the Web
+### Web 的未来
 
 Not only do these seasoned developers recognize areas of the Web that have improved, could still use improvement or are missing entirely, they also had some thoughts to share about the future of the Web.
 
