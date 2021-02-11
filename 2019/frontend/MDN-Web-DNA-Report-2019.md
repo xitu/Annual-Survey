@@ -2,7 +2,7 @@
 > * 原文作者：[Abla Hamilton](https://www.linkedin.com/in/hamilton/)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/Annual-Survey)
 > * 本文永久链接：[https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.md](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.md)
-> * 译者：[霜羽 Hoarfroster](https://github.com/PassionPenguin)
+> * 译者：[霜羽 Hoarfroster](https://github.com/PassionPenguin)、[HumanBeing](https://github.com/HumanBeingXenon)
 > * 校对者：
 
 # 2019 年 MDN Web 开发者需求评估
@@ -135,78 +135,106 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 这个项目的需求陈述集中在受挫的感受上。如果 Web 开发人员在 Web 开发方面遇到挫折，浏览器厂商可能有潜在的机会来帮助解决这种挫折。
 
-### 排序法
+### 排序方法
 
-Using the MaxDiff methodology, we asked survey respondents to rank a total of 28 need statements. Respondents saw twelve sets comprised of four need statements. For each set they were instructed to pick the one need that causes them the least frustration and the one need that causes them the most frustration. A single need statement could appear more than once within the twelve sets.
+我们使用了 MaxDiff 法，让受访者对总共 28 个需求的陈述进行排序。受访者则是看到了由每套四种需求陈述组成的十二套需求陈述。在每一组中，他们被要求选出一种让他们感到最不沮丧的需求和一种让他们感到最沮丧的需求。（单个需求语句可以在 12 套中出现不止一次，即重复出现）
 
-It is important to note that just because a need may not rank as the least frustrating within a set, that does not mean it causes the least frustration. It could imply that the respondent does not have experience with the subject matter or does not prioritize that subject within their work.
+需要注意的是，需求可能不是最不令人沮丧的，但这并不意味着它造成的挫败感最少。这可能意味着被调查者对该话题没有经验，或者在他们的工作中没有优先考虑该内容。
 
-For example, “Making sites accessible,” ranked 24th out of 28, and that’s pretty low. That doesn’t mean making sites accessible is easy, without room for improvement. What we learned during the pilot interviews is that developers and designers are not always given latitude to spend the necessary time on accessibility. Therefore, because they cannot spend the time on it, accessibility does not create frustration. If in the future, developers and designers spend more time on accessibility, their perception of the frustration may change, and so would the ranking.
+例如，“使网站无障碍化”在 28 个项目中排名第 24 位，这是相当低的。这并不意味着网站的无障碍化，没有改进的空间。我们在试点访谈中了解到，开发人员和设计师并不总是能够在可访问性上花费必要的时间。正因为他们不会在无障碍化上花费时间，这个话题并不会让他们产生挫折感。如果将来开发者和设计师在无障碍化上投入更多时间，他们的挫折感可能也会改变，排名也会随之改变。
 
-### Themes
+### 主题
 
-The 28 needs cover 14 different themes. As was mentioned earlier, four of the top ten needs relate to browser compatibility, making it the highest ranked theme. Rounding out the top five themes are Documentation, Testing, Debugging, and Frameworks.
+这 28 个需求含括在 14 个不同的主题之中。正如前面提到的，排名前十的主题中有四个与浏览器兼容性有关，这使得它成为排名最高的主题。排在前五名的主题还有编写文档、测试、调试和框架。
 
-![Browser Compatibility](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg) Browser Compatibility
+#### 浏览器兼容性
 
-![Documentation](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg) Documentation
+![浏览器兼容性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg)
 
-![Testing](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg) Testing
+#### 编写文档
 
-![Debugging](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg) Debugging
+![编写文档](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg)
 
-![Frameworks](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg) Frameworks
+#### 测试
 
-![Privacy](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg) Privacy
+![测试](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg)
 
-![Security](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg) Security
+#### 调试
 
-![Authentication](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg) Authentication
+![调试](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg)
 
-![Performance](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg) Performance
+#### 框架
 
-![Outliners](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg) Outliners
+![框架](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg)
 
-![Design](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_design.svg) Design
+#### 隐私
 
-![Localization](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg) Localization
+![隐私](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg)
 
-![Pace of Change](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg) Pace of Change
+#### 安全性
 
-![Accessibility](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg) Accessibility
+![安全性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg)
 
-### Overall Needs Ranking
+#### 认证
 
-One is the most frustrating and 28 is the least frustrating.
+![认证](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg)
 
-1. Having to support specific browsers (e.g., IE11).
-2. Outdated or inaccurate documentation for frameworks and libraries.
-3. Avoiding or removing a feature that doesn’t work across browsers.
-4. Testing across browsers.
-5. Making a design look/work the same across browsers.
-6. Discovering bugs not caught during testing.
-7. Supporting multiple frameworks in the same code base.
-8. Keeping up with a large number of new and existing tools or frameworks.
-9. Managing user data to comply with laws and regulations.
-10. Understanding and implementing security measures.
-11. Integrating with third parties for authentication.
-12. Pinpointing existing performance issues.
-13. Running end-to-end tests.
-14. Lack of device APIs allowing for access to hardware.
-15. Outdated documentation for HTML, CSS and JavaScript.
-16. Determining the root cause of a bug.
-17. Capability of the web to support a specified layout.
-18. Knowing what browsers support a specific technology.
-19. Achieving visual precision on stylized elements (e.g., buttons).
-20. Running front-end tests.
-21. Implementing localization.
-22. Keeping up with changes to the web platform.
-23. Implementing performance optimizations.
-24. Making sites accessible.
-25. Getting users to grant permissions to Web APIs (e.g., geo-location).
-26. Deciding what to learn next to keep my skill set relevant.
-27. Finding a community of peers.
-28. Fixing a bug once it’s been identified.
+#### 性能
+
+![性能](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg)
+
+#### 大纲
+
+![大纲](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+
+#### 设计
+
+![设计](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_design.svg)
+
+#### 本地化
+
+![本地化](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg)
+
+#### 变化速度
+
+![变化速度](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg)
+
+#### 无障碍性
+
+![无障碍性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg)
+
+### 整体需求排名
+
+第一名的是最令人沮丧的，倒数第一名的是最不令人沮丧的。
+
+1. 被迫支持像 IE 11 一样的东西
+2. 过时或不准确的框架和库文档。
+3. 被迫避开或删除不能跨浏览器使用的特性。
+4. 跨浏览器测试。
+5. 使设计在不同的浏览器中的外观 / 作用效果相同。
+6. 发现在测试期间没有发现的 bug。
+7. 支持同一代码库中的多个框架。
+8. 与大量新的和现有的工具或框架保持最新版本。
+9. 根据法律法规管理用户数据。
+10. 了解并实施安全措施。
+11. 与第三方集成进行身份验证。
+12. 确定现有的性能问题。
+13. 运行端到端测试。
+14. 缺乏允许访问硬件的设备 API。
+15. 过时的 HTML、CSS 和 JavaScript 文档。
+16. 确定错误的根本原因。
+17. Web 支持指定布局的能力。
+18. 了解哪些浏览器支持特定的技术。
+19. 在样式化元素（如按钮）上实现视觉上的精确。
+20. 运行前端测试。
+21. 实现本地化。
+22. 跟上 Web 平台的变化。
+23. 实现性能优化。
+24. 使网站访问。
+25. 让用户授权使用 Web API（例如获取地理位置）。
+26. 决定接下来学习什么以保持我的技能相关。
+27. 寻找一个同龄人群体。
+28. 在发现 bug 后修复 
 
 ### Segmented View of the Needs Ranking
 
@@ -1252,7 +1280,7 @@ Beyond individual organization’s actions, and recognizing that interoperabilit
 * Browser Compatibility 浏览器兼容
 * Debugging 调试
 * Deployment 部署
-* Frameworks 框架 
+* Frameworks 框架
 * Layout 布局
 * Localization 本地化
 * Mobile Payments 移动端支付
