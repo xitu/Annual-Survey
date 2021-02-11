@@ -435,35 +435,35 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 从数据反映到，大多数的受访者（76.1％）对 Web 是非常满意或满意的，而 9％ 的受访者对此非常不满意或不满意。
 
-## What’s Missing From the Web
+## Web 上还缺啥？
 
-### Overview
+### 综观
 
-The survey had one question where the response was open-ended. The question was, “What are things that you would like to be able to do on the Web but lack web platform features to do?” This was an optional question, not requiring a response.
+我们设置了一个开发性的问题：“你想在 Web 上做些什么，但又缺少什么 Web 平台功能？”这是一个可选问题，默认不需要作答。
 
-We asked this open-ended question because we didn’t know what answers to suggest as possibilities, but intend to use the results gathered to inform future iterations of this question.
+我们之所以提出这个开放式问题，是因为我们不知道能够有什么答案能作为一个可能的标准答案，因此我们打算将收集到的结果在调查以后再去整理数据。
 
-Of the 28,474 completed survey responses, we had 12,359 respondents answer this question, which is just shy of half. Open-ended questions are difficult to analyze because you cannot be sure how a respondent interpreted the question, and therefore what context to apply to their answer. With that in mind, we went through the responses and eliminated answers that did not answer the question at hand. For example, many responses had some form of, ‘non-applicable,’ or, ‘nothing is missing.’ After deleting non-pertinent answers, the remaining responses totaled 9,570.
+在 28474 份完整作答的调查问卷数据中，由 12359 名受访者回答了这个问题 —— 仅仅只有一般的用户回答了。开放式问题是很难进行分析的，因为我们无法确定受访者对问题的陈述方式，无法确定对其回答适用的背景。考虑到这一点，我们仔细研究了答案，并消除了偏题的答案。例如，许多回复的形式为“不适用”或“没有缺失什么功能”。删除不相关的答案后，共计尚存 9570 份作答。
 
-From there, we selected a random 1,000 answers to categorize into themes.
+从这些作答中，我们随机挑选出了 1000 份答案，对它们进行了分类。
 
-Aside from a surprising number of responses alluding to the desire to have the Web make a pot of coffee and achieve world domination, developers’ wants fell into 109 categories. However, of those categories, only seven had 3% or more of the answers:
+除了令人惊讶的大量回应暗示希望让 Web 能够轻轻松松取得世界统治地位之外，开发人员的需求分为 109 类。但是，在这些类别中，只有 7 个类别拥有总答案占比 3％ 或更多的答案：
 
-* Access to Hardware (12.4%)
-* Browser Compatibility (8.6%)
-* Access to Filesystem (4.7%)
-* Performance (3.4%)
-* PWA support (3.4%)
-* Debugging (3.3%)
-* Access to Native APIs (3%)
+* 与硬件的访问（12.4%）
+* 浏览器兼容性（8.6%）
+* 与文件系统的访问（4.7%）
+* 性能（3.4%）
+* 对 PWA 的支持（3.4%）
+* 调试（3.3%）
+* 与原生 API 的访问（3%）
 
-Falling just shy of the 3%, at 2.9%, were answers about needs related to CSS. Rounding out the 2% level were answers about avoiding JavaScript on the web platform (2.3%) and needs about gaming (2%).
+有关 CSS 的需求的答案仅略低于 3％ 的 2.9％。大量的占比 2％ 的问题是关于避免在 Web 平台上使用 JavaScript 的答案（2.3％）和关于游戏的需求（2％）。
 
-The remaining 99 categories, each accounted for less than 2% of the 1000 responses analyzed.
+而对于其余的 99 个类别，每个类别所占的比重都不超过总数 1000 份回答的 2％。
 
-Another note on the methodology for analyzing these answers is that since the question was open-ended, we received answers that had a list of things the respondent wanted to achieve on the web, but lacked the platform features to do so. To avoid giving one respondent’s answer more weight than those who only provided one item, we took the first response out of the list. In some cases, we could not make sense of the first response or it did not answer the question. In those instances, we moved on to the next item in the list, until we either deleted their response (for not answering the question) or categorized the first answer in the list that made sense considering the question.
+因为该问题是开放式的，因此我们收到的答案列出了受访者希望在网络上实现的事情，但缺少这样做的平台功能。为了避免给受访者只作答一次与多次的权重不一，我们将第一份答复从列表中删除。在某些情况下，我们无法明白第一份作答是什么意思，或者受访者没有作答。在这些情况下，我们继续跳到列表中的下一项，直到我们删除了一分没有作答的数据或将列表中的第一个答案归类。
 
-On the following pages are short descriptions, which further explain the category, beyond just the title, as well as verbatims from survey responses. We chose the verbatims that best capture the deeper meaning of the category.
+接下来的几段是简短的描述，除了标题以外，还进一步解释了类别，以及调查问卷中的详细内容。我们选择了最能体现该类别更深层含义的普通词汇。
 
 ### Access to Hardware
 
