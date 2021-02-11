@@ -131,11 +131,11 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 我是一个游客，尝试想要去另外的国家旅游，但因为签证是复杂的，而且我的口语能力很差，遇到了办理签证上的问题，让我感到非常沮丧。
 
-We drew upon common practices in design thinking as well as product-development processes for inspiration when deciding to use need statements in the survey. Because they are written from the point of view of developers, we felt it would be an intuitive way to read, interpret, and rank to get to the top ten.
+当我们决定在调查中使用需求陈述时，我们借鉴了设计思维和产品开发过程中的常见做法，以获得灵感。因为它们是从开发者的角度出发编写的，我们觉得这是一种直观的阅读、解释和排名的方式。
 
-The need statements for this project were centered around the emotional reaction of frustration. If a web developer experiences frustration in regards to web development, there may be an underlying opportunity for browser vendors to help solve that frustration.
+这个项目的需求陈述集中在受挫的感受上。如果 Web 开发人员在 Web 开发方面遇到挫折，浏览器厂商可能有潜在的机会来帮助解决这种挫折。
 
-### Ranking Methodology
+### 排序法
 
 Using the MaxDiff methodology, we asked survey respondents to rank a total of 28 need statements. Respondents saw twelve sets comprised of four need statements. For each set they were instructed to pick the one need that causes them the least frustration and the one need that causes them the most frustration. A single need statement could appear more than once within the twelve sets.
 
@@ -1231,75 +1231,72 @@ The first version of the Developer Needs Assessment ended with valuable informat
 
 Beyond individual organization’s actions, and recognizing that interoperability is a major pain point for web developers, major browser vendors are working together on cross-browser test suites like web-platform-tests and Test262. The group working on web-platform-tests have taken, as a 2020 priority, to identify and fix the most important test failures and improve the quality of the test suite.
 
-## Methodology
+## 方法
 
-Considering the pilot interviews provided an outside-in perspective that shaped the first iteration DNA survey, we wanted to offer a thorough write-up of the methodology for how we conducted the interviews.
+考虑到预演的访谈给我们了一个由表及里的视角，构造我们的第一代的 DNA 调查报告，我们想提供一个关于我们如何在各个方面进行访谈的方法的文章。
 
-**Pilot Interviews**
+**预演访谈**
 
-To ensure as broad an audience as possible, project stakeholders created recruiting criteria to help gather a diverse perspective from different countries and gender affiliations. We broadcasted a survey on MDN, and selected pilot interview participants from completed responses, ensuring we met the recruiting criteria.
+为了确保受访者的是广泛的，项目相关者创建了筛选标准，帮助我们将不同的观点按照来自的国家或是性别等各种标准分离。我们在 MDN 官网上选好窜了这次调查，并且有选择地在完整作答的回答中进行了一次预演，确保我们达到了筛选标准。
 
-Those who met the criteria were invited to participate in an hour- long (at most), remote interview. Narrative inquiry was chosen as the methodology as people make sense of their world by telling stories. Narrative analysis encourages participants to explain meaning and truth from their perspective.
+那些达到标准的受访者都被我们邀请参加了我们平均一个小时长的远程采访。叙事的方法被我们采用，让人们以故事的形式，讲述他们感官中的开发世界。叙事的分析也让我们参与者更好地解释意义和真相 —— 更好地从他们的角度解释。
 
-A guided but flexible discussion was chosen to encourage participants to remain comfortable and conversational throughout the interview process. Language, tone, and topic were guided by the participant and used to inform areas of inquiry as well as contextual interpretation of the participant’s words and actions.
+一个有导向性但又是开放的讨论也被采用，鼓励我们的受访者们以保持舒适且以一种聊天的氛围，贯穿整个调查的过程。语言、语调以及主题是完全由参与者决定的，也用于解释它们的陈述、动作。
 
-In order to accurately map participants’ perceptions of a topic related to web development and design, researchers provided an X/Y grid. The X-axis represented participants’ perceived level of importance, while the Y-axis represented their perceived level of frustration of the topic of interest.
+为了更精准地认知受访者对于 Web 开发和设计的一个主题的感受，我们提供了一个 X - Y 轴坐标系，X 坐标轴表示受访者认为的重要性，而 Y 轴代表他们对他们所感兴趣的主题的沮丧感。
 
-Participants were then given a set of cards that represent touchpoints of web development or design and were asked to place the
+受访者们同样被我们给予一套卡片，每张卡片分别对应 Web 开发或设计的一个部分。我们让他们按照他们自己的想法，将卡片放置在坐标系中。这些部分是在调查之初就定下来的：
 
-cards onto the grid according to their own opinion. The list of touchpoints were defined during the kickoff with stakeholders:
+* Accessibility 无障碍化
+* Authentication on Mobile 移动端验证
+* Browser Compatibility 浏览器兼容
+* Debugging 调试
+* Deployment 部署
+* Frameworks 框架 
+* Layout 布局
+* Localization 本地化
+* Mobile Payments 移动端支付
+* Ops 运维
+* Pace of change 变化的速度
+* Performance 性能
+* Privacy 隐私
+* Security 安全
+* Testing 测试
+* Tools 工具
+* Trends 趋势
 
-* Accessibility
-* Authentication on Mobile
-* Browser Compatibility
-* Debugging
-* Deployment
-* Frameworks
-* Layout
-* Localization
-* Mobile Payments
-* Ops
-* Pace of change
-* Performance
-* Privacy
-* Security
-* Testing
-* Tools
-* Trends
+研究人员观察受访者把卡片放在坐标系中，询问了他们把卡片放在特定的位置的原因以及卡片之间的关系。他们研究了对话语境中的语言线索，引导讨论指向受访者认为特别相关、有意义或难忘的经历。
 
-Researchers watched participants place the cards on the grid, and asked why cards were placed in a specific location or about the relationship between cards. They examined verbal cues in the context of the conversation, to guide the discussion toward experiences that participants found especially relevant, meaningful, or memorable.
+如果受访者不明白一张卡片的意思，他们会被询问他们对于这张卡片所代表内容的理解。如果没能有具体的描述，他们会被要求把卡片移除坐标系中。在活动结束时，受访者可以创建代表所提供列表中没有的部分的卡片。指示它们以与预先提供的部分相同的方式将新定义的部分放置在网格上。
 
-If a participant didn't understand the meaning of a card, they were instructed to define what it meant to them, and if no material description followed, they were asked to leave it off the grid. At the end of the activity, participants could create cards representing a touchpoint not found on the list provided. They were instructed to place the newly defined touchpoint on the grid in the same way that the pre-provided touchpoints were placed.
+如果受访者允许，我们的采访都被录制，并拍摄了每一个创建的工件。
 
-When permitted, interviews were recorded, and photos were taken of any artifacts created.
-
-**Analysis**
+**分析**
 
 Following the interviews, Pinpoint began analysis, which started with detailed coding of the transcribed interviews. They read through each interview transcript to review the narrative — what did the participant choose to talk about? What was interesting? How do they frame things? What’s unique about their language? How do they want to be perceived?
 
-After coding, Pinpoint’s process transformed from information sifting to creating a narrative that highlights evidence (what they saw and heard from the interviews) to identify insights (what the evidence means), which helps unearth critical themes (why the evidence matters).
+在访谈之后，Pinpoint 开始了他们的分析 —— 从对转录的访谈进行详细的编码开始。他们会通读每一份采访记录来回顾叙述 —— 参与者选择谈论什么？有趣的是什么？他们是如何构造事物的？他们的语言有什么独特之处？他们希望别人怎么看待他们？
 
-**Survey Creation**
+在编码数据过后，Pinpoint 开始由信息筛选转变为创建一个叙述，突出证据（他们从访谈中看到和听到的），确定见解（证据意味着什么），因为这有助于挖掘关键主题（证据为什么重要）。
 
-Initial analysis of the pilot interview findings informed the survey questions, most importantly, the needs list. The original needs list included 59 need statements within eighteen categories. This list was pared down to the 28 needs tested in the survey. MDN Product Advisory Board (PAB) members, as well as others employees within the PAB organization helped weigh in on how to reduce the needs list. A shorter needs list was important; otherwise the time required to complete the survey would have been too great, and our participation rates would have been less.
+**调查的创建**
 
-Once a draft survey was ready, it was piloted through UserTesting as well as individual interviews with participants recruited from
+对试点访谈结果的初步分析告知了调查的问题，最重要的是需求列表。最初的需求列表包括了 18 个类别中的 59 种需求陈述。这份列表最后被缩减为调查中测试的 28 种需求。MDN 产品咨询委员会（PAB）员以及 PAB 组织内的其他员工一起参与了权衡减少需求列表的过程。一个更短的需求列表可是很重要的，不然完成调查的时间会太长而且参与调查的受访者也会变少。
 
-MDN. These pilot efforts were an opportunity to gather early feedback from the perspective of our target audience to help ensure the questions were being interpreted as we intended.
+当一份调查草案准备好了，我们将通过用户测试和从 MDN 招募的受访者的个人访谈开始调查问卷的试点。这些试点工作是一个从我们的目标受众的角度收集早期反馈的机会，以帮助确保问题按照我们的意图得到解释。
 
-Once the survey questions were finalized it was localized from English into eight languages:
+调查问题定稿后，我们将问卷从英语本地化为其他八种语言，分别是：
 
-* Arabic
-* Chinese (simplified)
-* French
-* Japanese
-* Korean
-* Portuguese (Brazil)
-* Russian
-* Spanish
+* Arabic 阿拉伯语
+* Chinese (simplified) 简体中文
+* French 法语
+* Japanese 日语
+* Korean 韩语
+* Portuguese (Brazil) 巴西式葡萄牙语
+* Russian 俄语
+* Spanish 西班牙语
 
-The survey launched mid-July of 2019 and closed in August of 2019.
-
+调查问卷在 2019 的七月中开启，在 2019 的八月关闭。
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划](https://github.com/xitu/Annual-Survey) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
