@@ -66,72 +66,70 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ![P10](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p10.svg)
 
-A goal from the onset of this project was to have a broad, global representation of the developer community. Despite attempts to get the survey in front of representative audiences, 87.1% of the respondents
+我们这个项目最初的目标就是去获取一个更广，更能够代表全球开发者群体的一份评估报告。但即便我们尝试去获取有代表性的目标群体的数据，87.1% 的受访者是男性，8.2% 是女性，3.6% 是不愿透露的，以及 1.1% 表示两个选项都不适合自己。从这个角度来看，美国劳工统计局所估计的应该有 20% 的女性参与软件开发，尽管说我们所统计的并不一定与他们所统计的标准相同，但如果将我们的标准修改与美国政府一样，那么我们就拥有了 10.9% 的女性受访者比例。
 
-were men compared to 8.2% women and 1.1%, where neither option 8.2% was suitable. To put this into perspective, the US Bureau of Labor Statistics1 estimates that women’s participation in the software
+调查数据上性别的差异也是 MDN Web DNA 报告第一代的一个缺陷，也是几乎所有的开发者调查报告的一个通病。数据上的差异，同样也导致我们处理数据的方式也有所变化。我们的方法是将女性或其他小众群体排开。我们曾经尝试通过单独分离，来在数据中呈现更多不同群体的反馈，但我们还是失败了。在我们这份报告的未来的别的版本，我们会继续尝试去针对更公平地代表开发者群体这个任务去奋斗，去减小或是尽量让偏差合理化。
 
-developer workforce is more like 20%, though it’s not immediately obvious what constitutes their definition of the software developer workforce compared to the audience for this study. When filtering our results by respondents from the United States who selected woman, we have a representation of 10.9%
+我们在调查问卷中所提供的选项都经过 Mozilla 的法律团队的仔细审查。我们所提供的所有的四个选项都是有意为之，有针对性地发问的。我们在全球范围内开展了这项调查，并添加了一些需要提供个人身份信息的选择性问题。对不认同与出生时所确定的性别相一致的人的法律承认程度在世界各地差别很大。我们不希望有能将受访者置于危险境地的性别方面的数据。在收集到完成作答的问卷中，一共有 55.2% 的受访者回答了这些选择性问题
 
-This discrepancy in genders is another bias in the first version of the MDN Web DNA, and unfortunately, is a common problem with many developer surveys. The difference in representation could be a result of how we fielded the survey. Our methods may have contributed to a less representative audience by utilizing outlets that unintentionally exclude or dissuade women and other minority groups from participation. We did attempt to gather more diversity by sending it to specific women-groups. In future iterations, we will continue to aim for fair representation and ways to mitigate or account for the bias.
-
-The options provided as answers to choose from were carefully considered and vetted by Mozilla’s legal team. The four choices offered were intentional. We launched the survey globally and had optional questions that asked for personally identifiable information. The degree of legal recognition provided to people who do not identify with a gender consistent with the gender assigned at birth varies widely throughout the world. We did not want to have data on gender that could put people in harm’s way. Of completed responses, 55.2% answered the optional questions, which asked for personally identifiable information.
-
-### Survey Responses By Region
+### 按照地区分类
 
 ![P11](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p11.svg)
 
-### Survey Responses By Country
+### 按照国家分类
 
-The survey was localized from English into eight languages listed alphabetically:
+这份调查报告是以英语并本地化为其他八种语言，按照字母表顺序排列如下：
 
-* Arabic
-* Chinese (simplified)
-* French
-* Japanese
-* Korean
-* Portuguese (Brazil)
-* Russian
-* Spanish
+* Arabic 阿拉伯语
+* Chinese Simplified 简体中文
+* France 法语
+* Japanese 日语
+* Korean 韩语
+* Portuguese Brazil 巴西式葡萄牙语
+* Russian 俄语
+* Spanish 西班牙语
 
-These languages are a combination of stakeholder input as well as what is most accessed on MDN. The translations offered likely influenced who participated in the study and might be an explanation for why there are not more respondents from India.
+这些语言也同样是 MDN 网站受众最多的语言的组合。这些翻译更多地传播，让更多人参与到这份调查问卷中，也能作为为什么印度没有那么多受访者的一份解释。
 
-Though some countries’ response rate seems low compared to expectations, the survey includes responses from 173 countries. Nine countries represent 61.7% of the answers. The other 164 countries had 3% or less of total responses. The nine countries with the most significant participation were:
+虽然说某些国家的比例看起来低于预期，这份调查报告还是收集到了来自 173 个国家的受访者的问卷，其中 9 个国家占到了 61.7% 的回答数，而其他的 163 个国家的占比都低于 3%。这九个具有最突出回答贡献的国家分别是：
 
-* United States - 17.9%
-* China - 8.2%
-* Russia - 7.7%
-* India - 6.2%
-* Germany - 5.7%
-* France - 4.9%
-* United Kingdom - 4.4%
-* Ukraine - 3.6%
-* Canada - 3.1%
+* 美国 - 17.9%
+* 中国 - 8.2%
+* 俄罗斯 - 7.7%
+* 印度 - 6.2%
+* 德国 - 5.7%
+* 法国 - 4.9%
+* 英国 - 4.4%
+* 乌克兰 - 3.6%
+* 加拿大 - 3.1%
 
-### Survey Responses By Type of Developer
+### 按开发者类型区分
 
 ![P13](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p13.svg)
 
-Participants were asked, “Which best describes the type of web developer you are?” and were allowed to select multiple options. Most respondents identified as Full Stack or Front-end. The latter had two variations to pick: primarily JavaScript or primarily CSS and HTML. Full stack had the most representation at 57.1%. Back end had the least representation at 11.7%.
+我们的受访者被我们问到了：“你觉得你是什么类型的开发者”，并让他们能够多选回答。大多数的受访者都认为他们是全栈或是前端开发者。选择前端的开发者同样选择了另外的两个：基本上是 JavaScript 或是基本上是 CSS 和 HTML。共计 57.1% 的开发者选择了全栈，而仅仅只有 11.7% 的开发者选择了后端开发者。
 
-### Survey Responses By Experience Level
+### 按开发经验分类
 
 ![P14](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p14.svg)
 
-The experience level, measured by the number of years spent as a developer, was fairly even across recent (two years or less) to experienced developers (over ten years), 32.8%, and 23.4%, respectively. The lowest participation was from those with mid-level experience (6-9 years) at 15.6%. Additionally, more than half of all participants, 60.9%, had less than six years of experience.
+开发经验是以成为开发者时长的年数为标准分类的，公平的包括了近年（两年以内）的开发者到经验丰富的开发者（超过十年的开发经验），分别对应的是 32.8% 和 23.4%。被选择最少的是中级有经验的开发者（6 - 9 年，15.6%）。另外，超过一半的受访者（60.9%），拥有少于 6 年的开发经验。
 
-## Needs Assessment
+## 需求评估
 
-### What is a Need?
+### 什么是需求
 
-Before sharing the top ten needs, we’re briefly describing what a need is to help set the context for the following Findings section.
+在与大家一起分享前十个开发者需求之前，让我们先来简要地了解一下什么是一个需求，以便更好地行文。
 
-The need statements were informed from the fourteen pilot interviews conducted at the beginning of this project. The statements are written from the point of view of a web developer. The outline we used to create the need statements was:
+陈述一个需求的模板是在项目开始之初进行的 14 场预演访谈中定下来的，以 Web 开发者的角度写下，大纲是：
 
-I am a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (persona) trying to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (verb) but \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (barrier) because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (cause), which makes me feel \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (emotional reaction).
+I am a __________________ (persona) trying to __________________ (verb) but __________________ (barrier) because __________________ (cause), which makes me feel __________________ (emotional reaction).
 
-Putting this into action, it could read as follows:
+> 我是一个 __________ （形容自己），尝试想要 __________ （动词），但因为 __________ （原因），遇到了 __________ （障碍），让我感到 __________ （感受、情绪）
 
-I am a tourist trying to travel to another country but am struggling to understand the Visa process because it’s complex and poorly communicated, which makes me feel frustrated.
+将这个模板放入实例中，可以是这样的：
+
+我是一个游客，尝试想要去另外的国家旅游，但因为签证是复杂的，而且我的口语能力很差，遇到了办理签证上的问题，让我感到非常沮丧。
 
 We drew upon common practices in design thinking as well as product-development processes for inspiration when deciding to use need statements in the survey. Because they are written from the point of view of developers, we felt it would be an intuitive way to read, interpret, and rank to get to the top ten.
 
