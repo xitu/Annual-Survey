@@ -1,9 +1,9 @@
-> * 原文地址：[The State of Design Systems: 2020](https://material.io/blog/research-state-of-design-systems-2020)
-> * 原文作者：[Abla Hamilton](https://www.linkedin.com/in/hamilton/)
-> * 译文出自：[掘金翻译计划](https://github.com/xitu/Annual-Survey)
+> * 原文地址：[MDN Web Developer Needs Assessment 2019](https://insights.developer.mozilla.org/reports/mdn-web-developer-needs-assessment-2019.html)
+> * 原文作者：[MDN Product Advisory Board (PAB)](https://developer.mozilla.org/en-US/docs/MDN/MDN_Product_Advisory_Board/Membership)
+> * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.md](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.md)
-> * 译者：[霜羽 Hoarfroster](https://github.com/PassionPenguin)、[HumanBeing](https://github.com/HumanBeingXenon)
-> * 校对者：
+> * 译者：[霜羽 Hoarfroster](https://github.com/PassionPenguin)
+> * 校对者：[HumanBeing](https://github.com/HumanBeingXenon)
 
 # 2019 年 MDN Web 开发者需求评估
 
@@ -1326,7 +1326,7 @@ Following the interviews, Pinpoint began analysis, which started with detailed c
 
 调查问卷在 2019 的七月中开启，在 2019 的八月关闭。
 
-> 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划](https://github.com/xitu/Annual-Survey) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
+> 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划](https://github.com/xitu/gold-miner) [年度报告分区](https://github.com/xitu/Annual-Survey) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
 ---
 
