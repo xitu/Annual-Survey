@@ -58,7 +58,7 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 调查结果
 
-![P9](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p9.svg)
+<img src="./MDN-Web-DNA-Report-2019/p9.svg" alt="P9" align="right" />
 
 完整的调查结果被按照性别、地区、国家、开发者类型和熟悉程度被进一步在下文中被分类。
 
