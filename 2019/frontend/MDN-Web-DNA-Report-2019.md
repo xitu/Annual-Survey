@@ -532,44 +532,41 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 ### 程序语言
 
-As core technologies for the web, we wanted to understand developers’ pain points using JavaScript, HTML, CSS, and WebAssembly.
+作为网络的核心技术，我们希望了解使用 JavaScript、HTML、CSS 和 WebAssembly 进行开发的开发人员的难点。
 
 ### JavaScript
 
-The biggest pain point for JavaScript was, “Lack of browser/engine adoption/support for a given language feature.” Though, 16% of respondents have no pain points with JavaScript.
+JavaScript 的最大痛点是 缺乏浏览器 / 引擎 / 对给定语言功能的支持。不过，有 16％ 的受访者对 JavaScript 非常优秀……
 
-![P40](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p40.svg)
+![P40](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p40.svg)
 
 ### HTML
 
-HTML seems to be the shining star of these languages as roughly a third of respondents (35.3%) have no issues with the language. That said, the biggest pain point with HTML is a lack of adoption and support for a given feature at 31.5%.
+HTML 似乎是这些语言的闪亮之星，因为大约三分之一的受访者（35.3％）对该语言没有任何问题。同时，也有 31.5% 的人说，HTML 最大的痛点是缺乏对给定的功能的采用和支持。
 
-![P41](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p41.svg)
+![P41](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p41.svg)
 
 ### CSS
 
-Nearly half (44%) of respondents said their biggest pain point with CSS is challenges creating the layout specified. Since CSS is the language to style webpages, the results suggest that achieving a desired layout is difficult to do using CSS. The results can be interpreted in different ways so further investigation is needed. One way to interpret this response is that CSS is causing developers a lot
+近一半（44％）的受访者表示，使用 CSS 的最大痛点是创建指定布局的挑战。由于 CSS 是用于设置网页样式的语言，结果也证实了，使用 CSS 很难实现所需的布局。我们可以用不同的方式解释这个数据，因此需要进一步研究。一种解释是 CSS 导致了很多开发人员使用该语言创建布局时感到悲伤。另一种解释是，开发人员正在尝试使用 CSS 来尽力而为以实现 Web 友好的布局而不是将其用于非 Web 设计领域。
 
-of grief when using the language to create layouts. Another way to interpret this is that developers are trying to do their best using CSS to achieve a web-friendly layout from a design that wasn’t intended for the web.
-
-![P42](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p42.svg)
+![P42](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p42.svg)
 
 ### WASM WebAssembly
 
-WebAssembly is a new technology, so only a handful of respondents, 851, which is just shy of 3% of the completed responses, had experience enough to respond. The results below are from a much smaller sample than those for JavaScript, HTML, and CSS. The largest pain, with 51.4% is a lack of debug tooling support.
+WebAssembly 是一项新技术，因此只有极少数的受访者（851 位）有足够的经验回答，占总作答数的 3%。下面的结果来自一个比 JavaScript、HTML 和 CSS 小得多的样本。大家认为，WASM 最大的痛点是缺少调试工具支持（51.4％）。
 
-![P43](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p43.svg)
+![P43](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p43.svg)
 
 ### 对新技术的包容程度
 
-The biggest barrier developers face when adopting new technology is broad interoperability across browsers. This is in-line with the top ten needs where four had to do with browser compatibility.
+开发人员在采用新技术时面临的最大障碍是跨浏览器的互通性，这与十大需求可是一致的！那十大需求中，其中四个与浏览器兼容性有关。
 
-![P45](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p45.svg)
+![P45](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p45.svg)
 
 ### 浏览器
 
-Chrome and Firefox lead the pack in terms of browsers developers support, 97.5% and 88.6% respectively. Third is Safari at 59.6%.
-
+Chrome 和 Firefox 在浏览器开发人员支持方面处于领先地位，分别为 97.5％ 和 88.6％。第三名是 Safari，占 59.6％。
 ![P47](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p47.svg)
 
 ## 预演调查的结果
