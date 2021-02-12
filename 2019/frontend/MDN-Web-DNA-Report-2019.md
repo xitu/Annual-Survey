@@ -58,13 +58,13 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 调查结果
 
-<img src="./MDN-Web-DNA-Report-2019/p9.svg" alt="P9" align="right" />
+<img src="./MDN-Web-DNA-Report-2019/p9.svg" alt="P9" align="right" height="128" />
 
 完整的调查结果被按照性别、地区、国家、开发者类型和熟悉程度被进一步在下文中被分类。
 
 ### 按照性别分类
 
-![P10](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p10.svg)
+<img src="./MDN-Web-DNA-Report-2019/p10.svg" alt="P10" align="center" height="384" />
 
 我们这个项目最初的目标就是去获取一个更广，更能够代表全球开发者群体的一份评估报告。但即便我们尝试去获取有代表性的目标群体的数据，87.1% 的受访者是男性，8.2% 是女性，3.6% 是不愿透露的，以及 1.1% 表示两个选项都不适合自己。从这个角度来看，美国劳工统计局所估计的应该有 20% 的女性参与软件开发，尽管说我们所统计的并不一定与他们所统计的标准相同，但如果将我们的标准修改与美国政府一样，那么我们就拥有了 10.9% 的女性受访者比例。
 
@@ -74,7 +74,7 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 按照地区分类
 
-![P11](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p11.svg)
+<img src="./MDN-Web-DNA-Report-2019/p11.svg" alt="P11" align="center" height="384" />
 
 ### 按照国家分类
 
