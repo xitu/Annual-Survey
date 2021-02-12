@@ -467,87 +467,66 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 ### 对硬件的访问
 
-Many of the answers categorized as access to hardware said simply that. Respondents wrote in answers such as, “access to hardware.” Some responses included more context. Access to hardware APIs was a common response. Other common requests were access to contacts, calendars, and the camera. Verbatims that best capture the deeper meaning of the category:
+大多数的回答都以 对硬件的访问 相似的或更简洁的形式出现。受访者们在答案中大多以 对硬件的访问 为答案。有些受访者的作答更为详细，一些其他常见的作答是 对通讯录、日历、相机等的访问。能够完美命中这分类的回答是：
 
-* Access Hardware APIs on devices, deploy applications with native-like performance and functionality using only web technologies.
-
-* Access low-level hardware on clients’ browsers.
-
-* Better access to hardware. We do a lot of scanning, it would be super helpful if there were an easier way to go from a scan to a canvas, to reading what is marked on a page.
+* 拥有硬件的 API 的访问权限，能够以 Web 技术的编写能够部署呈现原生性能的应用程序。
+* 在客户端浏览器中访问到更低级的硬件。
+* 拥有对硬件更好的访问权限。我们可以更好的扫描数据，将一份扫描呈现到 `canvas` 之中，或是能够读取页面上被标记的内容。
 
 ### 浏览器兼容
 
-Answers in this category asked for consistency in cross-browser compatibility, and across various devices and platforms. Another common desire was for better testing across browsers. CSS and JavaScript are the two most referenced languages in context to Browser Compatibility. Verbatims that best capture the deeper meaning of the category:
+这个分类的答案大多是希望能够拥有跨浏览器的统一的兼容，以及跨设备平台的。另外一个常见的需求是在浏览器之间能够拥有拥有更好的测试。CSS 和 JavaScript 则是浏览器兼容性请求中的两个最需要的部分，而能够完美命中这分类的回答是：
 
-* The same cross-browser rendering, so clients don’t complain fonts look good in one browser but not in another.
-
-* Use new technologies as standard without worrying about browser support
-
-* Supporting IE is a hell which we do because we have to, not because we want to.
-
-* Create the same experience across browsers without worrying about CSS caveats. It’s beyond infuriating coding in Chrome, turning to IE11 where everything is messed up.
+* 在不同浏览器能够有一样的渲染效果，因此客户们不会再抱怨字体在一个浏览器中挺棒的，但在另外一个就糟糕透了
+* 将新技术当作标准，不用再担心浏览器是否支持
+* 支持 IE 是下地狱一样的行为，是我们必须做的，而非我们希望做的。
+* 不必担心 CSS 而在浏览器之间构建一样的体验。在 Chrome 以外写样式真是令人恼火 —— 指的是，到 IE 11 上乱的要死。
 
 ### 对文件系统的访问
 
-Access to Filesystem could have been a subcategory of Access to Hardware, however the sheer volume of responses asking for access to the filesystem felt large enough to make this its own category. Many of the answers categorized with Access to Filesystem said simply that. Some answers acknowledge that users might need to grant permission before gaining access to the filesystem. Verbatims that best capture the deeper meaning of the category:
+访问文件系统应该可以算是对硬件的访问的一个自分类吧，但是却拥有大量的请求都写的是访问文件系统，足以自成一派了。大多数的回答都是简简单单的写着 访问文件系统，而有部分的回答则是表示用户需要给予权限，才能访问。能够完美命中这分类的回答是：
 
-* Secure and usable solution for persistent local storage.
-
-* Save files to the user’s computer directly (after being granted permission)
-
-* Granting limited access to file system directly from browser. It’s highly infeasible but would allow direct interactions if done right.
-
-* Handle the system files (to allow a user to work locally while having an online web application without Node.js)
+* 永久的本地存储的一个安全性和可用性解决方案。
+* 直接保存文件到用户的电脑（有了权限以后）。
+* 给予有限的权限让我们可以直接在浏览器中访问文件系统。虽说不可行，但如果有的话，让我们可以直接与文件系统交互。
+* 直接操控系统文件（让用户可以在一个不是 Node.js 的在线 Web 应用程序中本地工作）。
 
 ### 性能
 
-Respondents talked about performance in different ways. Some referenced knowing a users’ bandwidth capacity. Other referred to specific programming languages, most notably JavaScript. Performance was also measured compared to the speed of native apps. Verbatims that best capture the deeper meaning of the category:
+受访者们在不同的角度都提及了性能，有的希望能够通过特定的语言（大多数提及的是 JavaScript）知道用户的带宽。同样的，也将速度与原生应用程序相比较。能够完美命中这分类的回答是：
 
-* I would love to see better performance. A lot of stuff is only possible with a strong back-end, because the browsers are just too slow. Performance is the most important factor to improve.
-
-* See how much environmental resources I am using, as a part of performance.
-
-* Native mobile app speed in web apps.
-
-* JS performance is poor. It would be fun to write a Python or Java browser, but unfortunately, this has not changed.
-
-* Accurately determine a user’s current bandwidth capacity.
+* 我非常期待更好的性能。现在大多数的工作都还是只能在后端完成，因为浏览器还是太慢了！性能真的是最重要的需要提升的一个因素。
+* 看我在用着多少环境资源，作为性能的一部分。
+* Web 应用程序（原生移动应用程序）的速度
+* JavaScript 的性能太差了，我更希望在浏览器中使用 Python 或 Java，但这可一点都不可能啊。
+* 精确判断用户当前的带宽。
 
 ### 对 PWA 的支持
 
-Most responses categorized as PWA Support were about the lack of support and the desire to see full support. Not all vendors offer the same support for PWAs, which creates frustration for developers. Another common answer is having PWA as an option in app stores. Verbatims that best capture the deeper meaning of the category:
+归类为 对 PWA 的支持 的大多数答复是关于缺乏支持以及希望获得全面支持的愿望。并非所有浏览器厂商都为 PWA 提供相同的支持（就比如说 Safari 和 IE 11），这给开发人员带来了巨量的挫败感。另一个常见的答案是在应用商店中将 PWA 作为选项。最能体现该类别更深层含义的回答是：
 
-* Full PWA support from all vendors. I would like to develop web-view-based apps publicly available on the web and supported on all platforms.
-
-* PWAs are getting better — we’re still waiting to have a similar experience on iOS as on Android. Also Firefox does not offer to “install” a PWA.
-
-* Web can do most of the things which native does but web app is not commonly used like app, PWA should be there in major app stores as a category.
-
-* Have installable apps appear in app stores.
+* 所有供应商都提供全面的 PWA 支持。我想开发一款基于 Web 视图的应用程序，能够在 Web 上公开可用并在所有平台上均受支持的应用程序。
+* 希望 PWA 能够越来越好 —— 我们仍在等待在 iOS 上获得与 Android 类似的 PWA 应用程序体验。当然，现在 Firefox 也不提供 PWA 应用程序的安装。
+* Web 可以完成本机所做的大部分工作，但是 We b应用程序不像应用程序那样普遍使用，PWA 应该作为主要类别存在于主要应用程序商店中。
+* 出现在应用程序市场中。
 
 ### 调试
 
-Respondents who wrote answers about debugging often wanted better tools to make it easier and more convenient to debug from capturing bugs to resolving bugs. Verbatims that best capture the deeper meaning of the category:
+撰写了有关调试的作答的受访者通常希望有更好的工具来使从捕获错误到解决错误的调试变得更加轻松便捷。最能体现该类别更深层含义的回答是：
 
-* Better capture and report a scenario that leads to a bug in the user’s browser.
-
-* More convenient way to debug.
-
-* Modify the source code while debugging.
-
-* Mobile debugging.
+* 更好地捕获和上传导致用户浏览器错误的情况。
+* 更方便的调试方式。
+* 在调试时修改源代码。
+* 移动端调试。
 
 ### 对原生 API 的支持
 
-Answers categorized as Access to Native APIs were similar to Access to Hardware or Access to Filesystem in that developers wanted integration with a device OS. Also, having web apps behave more like native apps. Verbatims that best capture the deeper meaning of the category:
+被归类为对本机 API 的访问的答案类似于对硬件的访问或对文件系统的访问，因为开发人员希望与设备操作系统集成，以及还有让 Web 应用程序的效果更像本机应用程序。最能体现该类别更深层含义的回答是：
 
-* Interacting with other desktop applications.
-
-* System OS integrations.
-
-* Use an expanded set of platform provided components.
-
-* I would like Web Apps to be more native.
+* 与其他桌面应用程序进行交互。
+* 系统操作系统集成。
+* 使用一组扩展的平台提供的组件。
+* 我希望 Web 应用程序更原生化。
 
 ## 技术
 
