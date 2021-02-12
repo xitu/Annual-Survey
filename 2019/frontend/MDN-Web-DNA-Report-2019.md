@@ -147,61 +147,28 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 这 28 个需求含括在 14 个不同的主题之中。正如前面提到的，排名前十的主题中有四个与浏览器兼容性有关，这使得它成为排名最高的主题。排在前五名的主题还有编写文档、测试、调试和框架。
 
-#### 浏览器兼容性
-
-![浏览器兼容性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg)
-
-#### 编写文档
-
-![编写文档](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg)
-
-#### 测试
-
-![测试](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg)
-
-#### 调试
-
-![调试](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg)
-
-#### 框架
-
-![框架](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg)
-
-#### 隐私
-
-![隐私](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg)
-
-#### 安全性
-
-![安全性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg)
-
-#### 认证
-
-![认证](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg)
-
-#### 性能
-
-![性能](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg)
-
-#### 大纲
-
-![大纲](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
-
-#### 设计
-
-![设计](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_design.svg)
-
-#### 本地化
-
-![本地化](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg)
-
-#### 变化速度
-
-![变化速度](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg)
-
-#### 无障碍性
-
-![无障碍性](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg)
+<table style="text-align: center">
+	<tr>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg" alt="浏览器兼容性" height="48" /><br>浏览器兼容性</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg" alt="编写文档" height="48" /><br>编写文档</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg" alt="测试" height="48" /><br>测试</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg" alt="调试" height="48" /><br>调试</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg" alt="框架" height="48" /><br>框架</td>
+	</tr>
+	<tr>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg" alt="隐私" height="48" /><br>隐私</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg" alt="安全性" height="48" /><br>安全性</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg" alt="认证" height="48" /><br>认证</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg" alt="性能" height="48" /><br>性能</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" alt="大纲" height="48" /><br>大纲</td>
+	</tr>
+	<tr>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_design.svg" alt="设计" height="48" /><br>设计</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg" alt="本地化" height="48" /><br>本地化</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg" alt="变化速度" height="48" /><br>变化速度</td>
+		<td><img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg" alt="无障碍性" height="48" /><br>无障碍性</td>
+	</tr>
+</table>
 
 ### 整体需求排名
 
