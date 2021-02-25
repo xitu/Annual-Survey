@@ -58,13 +58,13 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 调查结果
 
-<img src="./MDN-Web-DNA-Report-2019/p9.svg" alt="P9" align="right" height="128" />
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p9.svg" alt="P9" height="128" />
 
 完整的调查结果被按照性别、地区、国家、开发者类型和熟悉程度被进一步在下文中被分类。
 
 ### 按照性别分类
 
-<img src="./MDN-Web-DNA-Report-2019/p10.svg" alt="P10" align="right" height="384" />
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p10.svg" alt="P10" height="384" />
 
 我们这个项目最初的目标就是去获取一个更广，更能够代表全球开发者群体的一份评估报告。但即便我们尝试去获取有代表性的目标群体的数据，87.1% 的受访者是男性，8.2% 是女性，3.6% 是不愿透露的，以及 1.1% 表示两个选项都不适合自己。从这个角度来看，美国劳工统计局所估计的应该有 20% 的女性参与软件开发，尽管说我们所统计的并不一定与他们所统计的标准相同，但如果将我们的标准修改与美国政府一样，那么我们就拥有了 10.9% 的女性受访者比例。
 
@@ -74,7 +74,7 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 按照地区分类
 
-<img src="./MDN-Web-DNA-Report-2019/p11.svg" alt="P11" align="center" height="384" />
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p11.svg" alt="P11" align="center" height="384" />
 
 ### 按照国家分类
 
@@ -111,7 +111,7 @@ PAB 以外，包括突出贡献的个人：Andreas Bovens、Andrew Overholt、Di
 
 ### 按开发经验分类
 
-![P14](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p14.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p14.svg" alt="P14" height="305"/>
 
 开发经验是以成为开发者时长的年数为标准分类的，公平的包括了近年（两年以内）的开发者到经验丰富的开发者（超过十年的开发经验），分别对应的是 32.8% 和 23.4%。被选择最少的是中级有经验的开发者（6 - 9 年，15.6%）。另外，超过一半的受访者（60.9%），拥有少于 6 年的开发经验。
 
@@ -137,7 +137,7 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 ### 排序方法
 
-我们使用了 MaxDiff 法，让受访者对总共 28 个需求的陈述进行排序。受访者则是看到了由每套四种需求陈述组成的十二套需求陈述。在每一组中，他们被要求选出一种让他们感到最不沮丧的需求和一种让他们感到最沮丧的需求。（单个需求语句可以在 12 套中出现不止一次，即重复出现）
+我们使用了最大差异度量 (MaxDiff) 法，让受访者对总共 28 个需求的陈述进行排序。受访者则是看到了由每套四种需求陈述组成的十二套需求陈述。在每一组中，他们被要求选出一种让他们感到最不沮丧的需求和一种让他们感到最沮丧的需求。（单个需求语句可以在 12 套中出现不止一次，即重复出现）
 
 需要注意的是，需求可能不是最不令人沮丧的，但这并不意味着它造成的挫败感最少。这可能意味着被调查者对该话题没有经验，或者在他们的工作中没有优先考虑该内容。
 
@@ -145,7 +145,7 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 ### 主题
 
-这 28 个需求含括在 14 个不同的主题之中。正如前面提到的，排名前十的主题中有四个与浏览器兼容性有关，这使得它成为排名最高的主题。排在前五名的主题还有编写文档、测试、调试和框架。
+这 28 个需求涵盖 14 个不同的主题。正如前面提到的，排名前十的主题中有四个与浏览器兼容性有关，这使得它成为排名最高的主题。排在前五名的主题还有编写文档、测试、调试和框架。
 
 <table style="text-align: center">
 	<tr>
@@ -174,34 +174,34 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 第一名的是最令人沮丧的，倒数第一名的是最不令人沮丧的。
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 需求排名的不同看法
 
@@ -223,178 +223,178 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 ### 按国家分类
 
-![P21](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p21.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p21.svg" alt="P21" align="right" height="492"/>
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 按性别分类
 
-![P22](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p22.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p22.svg" alt="P22" align="right" height="489"/>
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 按满意程度分类
 
-![P23](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p23.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p23.svg" alt="P23" align="right" height="491"/>
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 按工作经验分类
 
-![P24](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p24.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p24.svg" alt="P24" align="right" height="490"/>
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 前端开发者想法
 
-![P25](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p25.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p25.svg" alt="P25" align="right" width="131" height="493">
 
-1. 被迫支持像 IE 11 一样的东西
-2. 过时或不准确的框架和库文档。
-3. 被迫避开或删除不能跨浏览器使用的特性。
+1. 被迫支持特定浏览器，如 IE11。
+2. 框架和库的文档过时或不准确。
+3. 被迫避开或移除不能跨浏览器使用的特性。
 4. 跨浏览器测试。
-5. 使设计在不同的浏览器中的外观 / 作用效果相同。
-6. 发现在测试期间没有发现的 bug。
-7. 支持同一代码库中的多个框架。
-8. 与大量新的和现有的工具或框架保持最新版本。
-9. 根据法律法规管理用户数据。
-10. 了解并实施安全措施。
+5. 使设计在不同的浏览器中能保持外观样式、工作状态一致。
+6. 发现在测试期间未捕获的错误。
+7. 在一个代码库中支持多个框架。
+8. 跟上大量新生和现有的工具或框架。
+9. 遵守法律法规的前提下管理用户数据。
+10. 理解并实施安全措施。
 11. 与第三方集成进行身份验证。
-12. 确定现有的性能问题。
+12. 查明现有的性能问题。
 13. 运行端到端测试。
 14. 缺乏允许访问硬件的设备 API。
 15. 过时的 HTML、CSS 和 JavaScript 文档。
 16. 确定错误的根本原因。
-17. Web 支持指定布局的能力。
-18. 了解哪些浏览器支持特定的技术。
+17. Web 支持特定布局的能力。
+18. 了解特定的技术有哪些浏览器支持。
 19. 在样式化元素（如按钮）上实现视觉上的精确。
 20. 运行前端测试。
 21. 实现本地化。
 22. 跟上 Web 平台的变化。
 23. 实现性能优化。
-24. 使网站访问。
-25. 让用户授权使用 Web API（例如获取地理位置）。
-26. 决定接下来学习什么以保持我的技能相关。
-27. 寻找一个同龄人群体。
-28. 在发现 bug 后修复
+24. 使网站可访问。
+25. 请求用户授权使用 Web API（例如获取地理位置）。
+26. 决定未来的学习方向以保持个人的技能与时俱进。
+27. 找到同龄人社区。
+28. 发现错误后立即修复。
 
 ### 开发者对需求列表的感受
 
-![P26](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p26.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p26.svg" alt="P26" height="316"/>
 
 因为开发者需求评估是准备要每年都发布一份的，我们询问了受访者这 28 个需求的列表对一个 Web 开发者来说是否是一个非常公平的结果。大多数的受访者都赞同这个列表具有代表性，21.6 % 持中性态度，意味着我们还有大量的空间去优化这份列表。
 
 ## 对于 Web 的总体满意度
 
-![P28](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p28.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p28.svg" alt="P28" height="326"/>
 
 通过这个项目，我们想要一种合适、恰当的方法来衡量 Web 开发人员和设计人员对 Web 作为平台的满意程度。我们希望这是一个可在未来重复再现的问题，以衡量满意度随时间的变化。
 
@@ -505,31 +505,31 @@ I am a __________________ (persona) trying to __________________ (verb) but ____
 
 JavaScript 的最大痛点是 缺乏浏览器 / 引擎 / 对给定语言功能的支持。不过，有 16％ 的受访者对 JavaScript 非常优秀……
 
-![P40](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p40.svg)
+![P40](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p40.svg)
 
 ### HTML
 
 HTML 似乎是这些语言的闪亮之星，因为大约三分之一的受访者（35.3％）对该语言没有任何问题。同时，也有 31.5% 的人说，HTML 最大的痛点是缺乏对给定的功能的采用和支持。
 
-![P41](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p41.svg)
+![P41](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p41.svg)
 
 ### CSS
 
 近一半（44％）的受访者表示，使用 CSS 的最大痛点是创建指定布局的挑战。由于 CSS 是用于设置网页样式的语言，结果也证实了，使用 CSS 很难实现所需的布局。我们可以用不同的方式解释这个数据，因此需要进一步研究。一种解释是 CSS 导致了很多开发人员使用该语言创建布局时感到悲伤。另一种解释是，开发人员正在尝试使用 CSS 来尽力而为以实现 Web 友好的布局而不是将其用于非 Web 设计领域。
 
-![P42](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p42.svg)
+![P42](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p42.svg)
 
 ### WASM WebAssembly
 
 WebAssembly 是一项新技术，因此只有极少数的受访者（851 位）有足够的经验回答，占总作答数的 3%。下面的结果来自一个比 JavaScript、HTML 和 CSS 小得多的样本。大家认为，WASM 最大的痛点是缺少调试工具支持（51.4％）。
 
-![P43](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p43.svg)
+![P43](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p43.svg)
 
 ### 对新技术的包容程度
 
 开发人员在采用新技术时面临的最大障碍是跨浏览器的互通性，这与十大需求可是一致的！那十大需求中，其中四个与浏览器兼容性有关。
 
-![P45](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assesssment-2019/p45.svg)
+![P45](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p45.svg)
 
 ### 浏览器
 
@@ -542,142 +542,145 @@ Chrome 和 Firefox 在浏览器开发人员支持方面处于领先地位，分�
 
 ### 浏览器支持
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_browsercopatibility.svg" height="117"/>
 
-In the full list of needs browser compatibility was the dominant theme. Four need statements made the top ten:
+在完整的需求列表中，浏览器兼容性是重要主题。有四条需求陈述进入了前十名：
 
-&#35; 1 Having to support specific browsers (e.g., IE11).
+\# 1 被迫支持特定浏览器，如 IE11。
 
-&#35; 3 Avoiding or removing a feature that doesn’t work across browsers.
+\# 3 被迫避开或移除不能跨浏览器使用的特性。
 
-&#35; 4 Testing across browsers.
+\# 4 跨浏览器测试。
 
-&#35; 5 Making a design look/work the same across browsers.
+\# 5 使设计在不同的浏览器中能保持外观样式、工作状态一致。
 
-Of all the pilot interview findings, browser compatibility was the topic discussed using strong language especially if IE was at the heart of an issue.
+在所有试点访谈结果中，讨论浏览器兼容性，特别是当 IE 是问题核心的时候，开发者们直接骂街。
 
-While IE11 is decreasing in share as Microsoft shifts users to Edge (and the forthcoming Chromium-based version), it continues to be a large source of frustration to developers due to being over-represented in enterprises, legacy line of business apps, and certain industries. The prevalence of users accessing the web through IE is beyond both web developers’ control and Microsoft’s. In some cases, it’s the management of a company that dictates what browsers should be supported, ignoring data that suggests users are accessing a site through browsers other than those mandated.
+尽管微软将用户转移到 Edge （以及即将来临的基于 Chromium 的版本）使得 IE11 的份额下降，由于它在企业、旧版业务应用，以及某些产业具有过度代表性，它继续成为了开发者心态炸裂的一大来源。用户普遍使用 IE 访问网络，这超出了网络开发者和微软的控制范围。在有些情况下，由公司的管理层敲定要支持的浏览器，无视那些被认定是用户使用非指定的浏览器的访问网页的而产生的数据。
 
-*“I don’t know why people still use IE. I find \[browser compatibility\] very frustrating, especially as a front end designer. IE is such a curse my god, why do people use it?”*
+“我真的不能理解为什么人们依然使用 IE。 **浏览器兼容性**让我心态炸裂，特别是作为一个前端设计者。IE 真的是一个万恶之源，为什么人们要用它？”
 
-*“Browser compatibility, by and large, shouldn’t be an issue and for us specifically is a nightmare...we have so many people accessing our application from their office, which means they are running IE11. Which is something that I don’t care about, except I needed to code for it to keep my job. It’s just a hair-pulling frustration...it is tragic.”*
+“总的来说，浏览器兼容性不应该成为一个问题，并且它对于我们来说就是一个梦魇……我们有太多人在办公室里访问我们的应用，这意味着它们正运行着 IE11。这一点我毫不关心，除非我得写代码保持我的成果的一致性。真是一个让人抓耳挠腮的痛苦……太悲剧了。”
 
-*“\[Browser compatibility\] is important, but I think people put importance on the wrong parts of it. Everywhere I’ve worked they say, ‘It has to work on IE11,’ and I’m like, ‘Really because I think it needs to work on mobile Safari but not IE11.’ It’s frustrating trying to get stuff working on IE...the manufacturers have said stop using that.”*
+“**浏览器兼容性**很重要，但我觉得人们抓错重点了。任何我曾经工作过的地方的人都说，‘它必须也能在 IE11 上也能正常工作，’然后我在想，‘真的， 因为我认为它应该在便携版的 Safari 浏览器上正常运作而不是 IE11。’试着让部件在 IE 上也能正常工作真让人崩溃……它的产商都说了别用它了。”
 
-*“...the most annoying thing for me is...browser compatibility, to feel like something is simple enough to where, it shouldn’t render differently in Edge, but it does. That’s the big one, especially because \[in my industry of\] oil and gas, most people aren’t very technically inclined...”*
+“……对于我来说，最烦人的是……浏览器兼容性，比如有的东西已经足够简单到在 Edge 中不应该渲染结果不一致，但它就是。那是个大问题，尤其是**在我的行业**石化中，大多数人在技术上并不感冒……”
 
-*“... this \[doesn’t\] strictly \[relate\] to accessibility it more relates to browser compatibility. But Edge is not particularly accessible. It’s optimization for JAWS, which is the only popular software for professional blind users is abysmal...it’s recommended that Edge is not used at all, which makes users divert or revert to older versions of IE, which is a mess.”*
+“……这严格意义来说与可访问性**不算相关**，它与浏览器兼容性更加相关。然而 Edge 。它是对 JAWS 的优化，它是对于专业人士的唯一流行的软件，对于小白用户来说糟糕透了……建议千万不要用 Edge，这会让部分用户转移或回退到旧版的 IE，这很糟糕。”
 
-Browser compatibility is getting better though, at least some see a light at the end of the tunnel.
+但是，浏览器兼容性已经有所好转，至少有些人能看到隧道尽头的曙光。
 
-*“There are not many problems we have with browser compatibility... every once in a while, we’re supporting IE11, and that’s the only old browser we’re supporting. Even that we’re noticing that less than half a percent of our users are using IE 11...”*
+“浏览器兼容性并没有很多问题……每隔一段时间，我们都会支持 IE11，而这是我们唯一支持的旧款浏览器。甚至我们注意到，只有不到 0.5% 的用户在使用 IE11 ...”
 
-*“If you think about the amount of weird tricks \[you had\] to pull off  
-ten years ago to make sure that your website looks good in every web browser, and the amount of things you have to do now is kindergarten level. You just have to do a few things every browser now supports a decent enough level of features.”*
+“如果你考虑一下十年前**你必须得**整多少活才能保证你的网页在每个浏览器里看起来都挺好，这样看回你现在要干的活就是小菜一碟。你只需要做一点点事情，现在每个浏览器都支持足够的水平的特性。”
 
-While it might seem easy to point fingers at IE, all browsers have their quirks, and developers have had to learn those quirks and adapt to make their site work well enough after tediously testing across browsers and, in some cases, having to remove a feature.
+虽然我们很容易就对 IE 指指点点，但所有的浏览器都有自己的怪癖，因此开发者不得不学习了解这些怪癖，并适配这些浏览器，使得经过繁琐的跨浏览器测试，他们的网页仍然能正常工作，甚至有的情况下不得不删除某个特性。
 
-*“...it’s hard to achieve cross browser compatibility so everything works...it’s a lot of testing...to do with all these browsers, which \[isn’t\] a lot of fun...”*
+“……实现跨浏览器兼容性，以达到一切正常工作的目的实在太难了……这需要大量测试……处理这些浏览器，这**并不是**什么很有意思的事情……”
 
-*“Modern browsers are supposed to support same-site cookie attribute. But it turns out the latest version \[of Safari\] has a bug...it not being compatible with this specific version of Safari means that we cannot use them in general...all this is really frustrating.”*
+“现代浏览器都应当支持 cookie 的 SameSite 属性。但事实证明，最新版本的 Safari 有个漏洞……不能兼容该特定版本的 Safari 意味着我们不能普遍使用它……这一切真令人沮丧。”
 
-*“...you have to make sure that whatever you develop works as expected. There are fringe cases, say, if I were to make a web form \[and it\] works fine and dandy in Chrome, but for whatever reason, maybe it’s not behaving in another browser. Then you go down the rabbit hole of trying to debug or trying to research what the root cause is. Sometimes it’s due to an unsupported API or feature that’s being used, and that being the hallmark feature of the app...”*
+“你必须保证你开发的任何东西都能按照预期工作。有一些边缘情况，比如，假设我要制作一个 Web 表单 **并且它**能在 Chrome 内运行良好，但是由于某种原因，可能它在另一款浏览器中不能正常运行。那么你就会陷入尝试调试或者调查研究根本原因是什么的无底洞。有时候是因为使用了不受支持的 API 或者特性，但那又是应用的标志性功能……”
 
-*“...I understand the need to cater to browser compatibility, for example, you can pull up the metrics of any given project or site, and then you can look at the technology or the browser that’s being used to visit your site...you can make a case to say, ‘Well, a lot of our users are using a specific browser, we need to ensure that our project looks \[in\] the best light. That’s what can withhold certain features that you implement on your project.”*
+“我能理解要满足浏览器兼容性的需求，比如，你可以提取任何给定的项目或网站的指标，然后你可以查看被用于访问你的网站的技术或浏览器……你可以给出理由说，‘是这样，我们有很多客户使用某一款特定的浏览器，我们需要确保我们的项目**在**最佳水平。’这就是你在你的项目中实现的某些功能得以保留的原因。”
 
-Though not captured as a need statement by itself, at the crux of browser compatibility is the users’ experience. If it doesn’t work across the browsers your users use, then they aren’t going to be accessing your site, which has business implications.
+尽管本身没有被列为需求陈述，浏览器兼容性的关键是用户体验。如果你的项目不能在你的用户所使用的各种浏览器上正常工作，那么他们可能就无法访问你们的网页，这可能对业务造成影响。
 
-*“I think it’s very important that your audience can use your product*
 
-*no matter what device or browser they’re using, they should be able to use your service. I think this is very important to be able to deploy your product across a range of browsers.”*
+“我认为你的受众能够享用你的产品非常重要
 
-*“\[Browser compatibility is\] an implicit point where it is so important because everyone should have the same experience.”*
+不论他们在使用什么设备或浏览器，他们都应该能够享用你的服务。我认为将你的产品部署覆盖到各种浏览器非常重要。”
+
+“**浏览器兼容是**一个非常重要的隐含点，因为大家应该都拥有相同的体验。”
 
 ### 编写文档
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_documentation.svg" height="216"/>
 
-Survey participants rated aspects of documentation as the second most frustrating need:
+问卷调查参与者们把文档编写评为第二令人沮丧的需求：
 
-&#35; 2 Outdated or inaccurate documentation for frameworks and libraries.
+\# 2 框架和库的文档过时或不准确。
 
+文档是如此重要，它会导致让人极度崩溃，是因为它是开发者理解事物运作方式的途径之一。它也是开发者们克服沮丧，寻求帮助的资源之一，这也是为什么开发者看到不准确或过时的文档会心态炸裂。
 Documentation is so important, and hence leads to such high frustration because it is one of the things that gives developers an accurate picture of how things should work. It is also one of their go-to resources for overcoming frustration, which is why developers find inaccurate or outdated documentation so frustrating.
 
-*“...\[documentation\] really gives you the right picture of how things should be working...if you aren’t sure how things are supposed to work it’s so hard to get them right or it’s so hard to identify possible issues with what you’re doing.”*
+“……**文档**真正地告诉你事物正确运作的方式……如果你不确定事物如何正确运作，你很难让它们正确执行，或难以找出你所做的工作中可能存在的问题。”
 
-*“Documentation is \[the central thing for helping me overcome frustration\] partly because...you think you knew something but then after reading up on said feature or said documentation, it’s like, ‘Ah, I should be implementing it this way,’ rather than a learned know-how, so to speak.”*
+“文档是**帮助我克服挫败感的关键要素**，可能是因为……你觉得你懂，但是当你阅读完功能或者文档后，你会感觉，‘唔，其实我应该这样实现它’，而不是把它看作是一门学到的专业知识。”
 
-Documentation was one of the reasons why developers dislike frameworks. They find there is not enough information about how to use a framework optimally.
+文档是开发者们讨厌框架的原因之一。开发者往往无法找到足够的信息来最理想地使用框架。
 
-*“...nobody tells us what is the optimal way to use \[a framework\]. It took me a lot of time to understand how to format my bootstrap file...this  
-is the tree I have to make to make sure that it is optimal and it can be used by multiple different devices. That is something nobody tells us, exactly...That’s something I really like about Vue.JS they tell how to use it optimally.”*
+“……没有人告诉我们使用**某个框架**的理想方式。我花了很多时间来理解如何格式化引导文件文件……我必须创建这棵树来确保它是符合理想的，并可以被多种不同设备使用。这一点正好没有人告诉我们该怎么做……这也是我钟爱 Vue.JS 的原因，他们会告诉你最理想使用方式。”
 
 ### 调试
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_debugging.svg" height="166"/>
 
-In the full list of needs, debugging debuted at #6:
+在需求的完整列表中，调试首次出现在第6点：
 
-&#35; 6 Discovering bugs not caught during testing.
+\# 6 发现在测试期间未捕获的错误。
 
-The frustrations developers experience with debugging are more about the time it takes and the fact that if you’re debugging, then something is wrong. Trying to find the bug and how it manifests in a browser is also a source of frustration.
+开发者在调试过程中遇到的挫败感更多地在于时间开支，以及一旦调试就会有问题出现的事实。尝试找出错误，以及它在浏览器中的显示方式是挫败感的另一个来源。
 
+“调试烦死人了……**它是**个没有尽头的流程。我可以写一百个测试样例，我可以**对它们全部**进行调试。过一会儿，一位用户来电，‘有个别东西用不了啊’，因此我不得不重头再来，然后又发现，‘好吧，**因为**某些原因，这又是个问题’，调试真让人心累啊。”
 *“Debugging is always irritating...\[It’s\] a never-ending process. I can have a hundred test cases, I can debug \[them all\]. I’ll come back, one user will call, ‘This particular thing is not working,’ so I have to go back again, and realize, ‘Okay, this is again a problem because \[of\] something so debugging is frustrating.”*
 
-*“\[The\] level of frustration \[ for debugging\] would be high up there... debugging a layout it isn’t so much of a mystery if it’s HTML and CSS...in the context of JavaScript I feel like you’re always debugging throughout the process, making sure that it hits certain breakpoints. If I hit all the marks...for me, then I’m satisfied. Debugging should definitely be more along the lines of ops \[and\] code versioning because I feel like that’s where a lot of that happens in tandem.”*
+“**调试挫败感的程度**会很高……对于 HTML 和 CSS来说，调试布局并不是什么难事……但是在 JavaScript 的环境中，我感觉像是在进程里由始至终都在调试，确保它能命中各种断点。如果我能命中所有的标记……对于我来说，我已经很满意了。调试应该更多地遵循运维**以及**版本控制，因为我觉得那正是各种事情同时发生的地方。”
 
-*“...the only reason that \[debugging is\] frustrating is because of the multiple places to go to do it when you’re actually having to confirm how it appears in a browser.”*
+“……**调试**令人沮丧的唯一原因，是当你实际上确认它在浏览器中是怎么出现的时候，达成这个目的你要找许多不同的地方。”
 
-*“Debugging is just frustrating because if you are already debugging, you’ve done something wrong. You shouldn’t write to the point where you debug, you should just test so that you don’t waste time debugging...it’s important because if you are debugging that means there’s something that’s not working right that’s bothering you. Hopefully, you catch it before it’s live.”*
+“调试就是让人心累，如果你已经在调试，说明你肯做错了什么。你不应该写到调试的地方，而应该进行测试，以免浪费时间进行调试……这很重要，因为一旦你调试，说明有异常在困扰着你。真心希望，你能在它发生前就能发现它。”
 
 ### 框架
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_frameworks.svg" height="210"/>
 
-One of the unknowns stakeholders had about web developers is why they like frameworks — what about frameworks do they like? It turns out, the relationship with frameworks is more of a love/ hate meaning developers don’t necessarily like frameworks. In the survey, frameworks made the cut in two of the top ten needs:
+Web 开发者对于利益相关者来说有许多未知之处，其中之一就是,为什么他们喜欢框架 —— 那他们又喜欢什么框架呢？事实证明，开发者与框架的关系并不是单纯的爱与恨，这意味着开发者不一定喜欢框架。在调查中，框架在前十条需求中占了两条：
 
-&#35; 7 Supporting multiple frameworks in the same code base.
+\# 7 在同一个代码库中支持多个框架。
 
-&#35; 8 Keeping up with a large number of new and existing tools or frameworks.
+\# 8 跟进大量新生和现存的框架。
 
-Some developers envy the server-side world where there’s more stability and only a few leading frameworks, whereas, on the front end side, developers feel they are getting whiplash just trying to keep up with the many frameworks that exist.
+有些（前端）开发者会嫉妒服务器端的世界，在那儿更加稳定，而且只有少量领衔框架；而在前端，开发者们感觉他们只是在尝试跟上许多现有框架而已。
 
-*“I think it’s frustrating that there’s no good way to manage your dependencies of applications on the web, compared to Maven in the Java world, which has been a long, steady, common tool which has been available for many years.”*
+“Java 世界里的 Maven 是一个长期、稳定、普遍的工具，已经使用多年。与 Maven 相比，（前端）没有好的方法可以管理 Web 应用程序的依赖库，这很让人沮丧。”
 
-*“It could very well \[be\]...frameworks are entering a maturity where you’ll have a few, React and Angular, in perpetuity, the same way that the server-side frameworks have settled down into three or four that everyone uses. But it’s not there yet, and it’s a lot of whiplashing and eye-rolling...but it also keeps me employed.”*
+“很有可能……框架正在进入成熟阶段，永久地只剩下屈指可数的框架，比如 React 和 Angular，就像服务器端框架那样稳定在大家都用的三到四个。但是现在还没有到达那个境界，并仍受到很多鞭笞和白眼……但这也让我保持斗志。”
 
-Some developers try to avoid frameworks altogether mainly because it’s too hard to keep up with new and existing frameworks.
+有些开发者尽量避免使用框架，主要原因是跟上新生和现存的框架很难。
 
-*“...the pace of change in the framework arena has a high level of frustration, so I try to avoid them.”*
+“……框架领域变化的节奏令人十分沮丧，因此我尽量避免使用它们。”
 
-*“I’m not a big fan of frameworks... I don’t feel like they get you that much...\[ frameworks\] always look more complicated than they ought to be \[but\] they’re presented \[as\] the greatest thing since sliced bread. I’m not convinced.”*
+“我不是框架的忠实拥护者……我不觉得它们给你真的帮上了大忙……**框架**总是看起来比其应有的还要复杂，**但**它们被吹得有多好多好。我才不信。”
 
-On the flipside, frameworks offer efficiencies allowing developers to reuse something that’s already been solved for.
+另一方面，框架使得开发者可以重用已经被解决的方案，这提供了效率。
 
-*“I use the term framework to mean a new set of modules that have been prebuilt to trivialize the tasks...if there’s a complex series of blocks of code that you need...in order to get around a certain issue of rendering something or processing something, then somebody is going to create a library to make that more efficient.”*
+“我使用‘框架’这个词来表示一组新的模块，这些模块已经过预构建以简化任务……如果你需要一系列复杂的代码块……来避免一些特定的问题，比如渲染或者处理某物，想必有人会创建出一个库使它变得更高效。”
 
+“React 用起来非常舒服，Angular 非常可靠。现在你可以随心所欲地挑选。每一间大公司都做得很好，允许你做任何你想做的事情。**框架是**非常重要的，因为它的确让许多公司不必颇费周折就可以创造出一个不错的成果……这很好，但是某种程度上它不是在明面的，因为每个人都很擅长它。”
 *“React is a joy to use, Angular is a very solid one. You can pick and choose whatever you want now. Each one of the big ones, it’s really well made...allows you to do whatever you need. \[Frameworks are\] important because it does allow many companies to create something good with not much effort...it’s to the point where it’s nice, but it’s somewhat in the background because everybody got so good at it.”*
 
-Participants mentioned browser-based APIs, web components and object-oriented JavaScript as potential solutions or methods for reducing the need for frameworks.
+参与者提到了使用基于浏览器的 API，Web 组件以及面向对象的 JavaScript 作为减少框架需求的潜在解决方案或方法。
 
-*“...in the last few years, the browser’s did enormous development...all these browser APIs are good enough in order to avoid specific platforms. What I’ve learned from the last 10-15 years is that every, let’s say, half a year, some kind of framework is hyped. People tell you, ‘It’s the best that they’ve ever seen.’ Half a year later, something else comes around, and you have to change your code base. The most reliable project I’ve seen that works over many years, just purely use browser based API...I resorted to using pure browser, cross browser supported* *APIs...they work for many years”*
+“……过去几年中，浏览器的确取得了巨大的发展……所有的这些浏览器 API 足以避免使用特定平台。我从过去的 10~15 年学到的经验是，每半年，某种框架就会被大肆宣传。人们会告诉你，‘这是他们见过的最好的东西。’半年后，又有新的东西登场了，你又不得不更换你的代码库。我见过的最可靠的项目工作了很多年，只是单纯地使用了基于浏览器的 API……我不得不使用纯浏览器、跨浏览器支持的 API……它们正常工作了很多年。”
 
-*“...a lot of the problems that frameworks are trying to solve are artifacts of the non-object-oriented JavaScript, the older JavaScript way of doing things... it’s my hypothesis that a lot of that goes away if you just take a more modern design approach to developing for the web,... I’ve been playing with web sockets...it’s just a shared object. That’s one way of doing it. \[Another way is\] with remote method indication.”*
+“……框架试图解决由非面向对象的 JavaScript 的部件带来的问题，非面向对象的 JavaScript 是一种较旧的处理方式……我认为，如果你采用一种更加现代化的方式来进行网络开发，许多麻烦迎刃而解……我一直在琢磨 WebSocket……这只是一个共享对象，那是实现它的方法之一。**另一种方法是**通过远程方法指示。”
 
-*“I believe in web components. It will be nice if \[ frameworks\] are not going to be as important as before.”*
+“我相信网络部件。如果**框架**将来不再像以前那样重要该多好。”
 
 ### 隐私
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_privacy.svg" height="106"/>
 
-In the full list of needs tested in the survey, there were two need statements that related to privacy. One made the top ten list, coming in ninth:
+在调查中被测试的需求的完整列表中，有两个与隐私相关的需求陈述。 一个进入前十名，排名第九：
 
-&#35; 9 Managing user data to comply with laws and regulations.
+\# 9 遵守法律法规的前提下管理用户数据。
 
-Depending on the part of the world a developer resides, privacy is seen as getting better (GDPR) or worse (Australian Assistance and Access Bill). These laws and regulations have implications on both protecting a developer’s privacy as a user of the web, how they approach their work, as well as their career trajectory. When laws and regulations were mentioned in conjunction with privacy, there was a belief that maintaining privacy, whether their own or users, is beyond the scope of technology, meaning Governments need to step in to hold technology companies accountable for their use of private data. However, in some countries, it can be the Government who is exploiting data.
+根据开发人员居住的地区的不同，隐私被视为变得更好（通用数据保护条例，GDPR），或者更糟（澳洲协助和访问法案）。这些法律和法规对于保护开发者作为网络用户的隐私、他们如何处理工作，以及他们的职业轨迹都具有影响。当提及与隐私相关的法律和法规，人们相信维护隐私（无论是自己的还是用户的）是不包括在技术范畴之内的，这意味着政府需要介入，要求技术公司对其使用私人数据负责。但是，在某些国家和地区，可能是政府在利用数据。
 
-*“I saw \[privacy\] more in terms of \[the\] end customer instead of me \[the\] developer... me as a user I’m feeling much safer now, in terms of privacy than a year and a half ago because...if you’re in Europe, GDPR is going to keep your data in a much better place.”*
+“我认为**隐私**更多地是针对**终端用户**而不是作为**开发者**的我……作为一个用户，我感觉现在安全多了，现在的隐私相比一年半以前更加安全，因为……如果你身在欧洲，通用数据保护条例将会使你的数据保存在更加合适的地方。”
 
+“”
 *“It feels like many services and apps...are designed to mislead people that don’t know about the technicalities. I think \[privacy\] is super important and it’s frustrating that it’s hard to protect users, but I think this should improve with regulations...with laws like GDPR from Europe. I mean, it’s the only way really. Tech solutions like the Do Not Track setting in your browser...I’m sure people wanting to track you \[will\] exploit your data and everything. They will always find ways unless it’s really regulated. I don’t think that technology alone can protect people.”*
 
 *“...the impact \[of GDPR\]...we have to do the work to ensure that when people ask for us to delete the data, we need to ensure that we are deleting all the data that we have from them...that means deleting anything for logs, making sure that everything is deleted from all databases...before this we were still doing that kind of work but we didn’t have the same pressure I suppose...and it wasn’t clear for users that they had the right to exercise that...”*
@@ -688,7 +691,7 @@ Depending on the part of the world a developer resides, privacy is seen as getti
 
 Beyond the laws and regulations surrounding privacy, the pilot interviews revealed that privacy is personal. One thing top of mind when discussing privacy was protecting their privacy as a user of the Web, followed by the role of privacy in their work. When it came to protecting their own privacy and the privacy of their users, developers felt it is hard to do. There is a belief that maintaining their privacy is their right, and it is something they value, so they try to keep their users’ privacy safe too. Maintaining privacy comes with tradeoffs in terms of the features you’re able to access.
 
-*“You’re asking me why privacy matters? It’s my right.”*
+“你问我为什么隐私很重要？因为这是我的权利啊。”
 
 *“When I use the web, I feel uncomfortable. I ask myself, ‘Is this secure enough or will I have to use incognito version?’ I’m not sure how much I can protect my information and security on the web...what is important for me is that I keep these values in doing my development.”*
 
@@ -696,17 +699,19 @@ Beyond the laws and regulations surrounding privacy, the pilot interviews reveal
 
 *“...being a German \[privacy is\] very important to us...I think this is the hardest part to achieve typically because you want to have all these cool features, want to use all these platforms, so it’s hard to achieve privacy, but still, at the same time it’s very important to us...this is one of the most difficult issues and that’s why I’m using Firefox and not Chrome for instance today.”*
 
+“……我认为作为用户……你安装了一个应用，然后它向你索取权限。我总觉得，‘为什么它要那权限？它根本没有必要’，你也不会想阅读**隐私政策**，你就直接点了‘是’……这是个问题……你不能相信这些应用……它们可以访问你所有的数据以及所有你浏览过的网页……我很沮丧地意识到，作为一个用户，他们应该更确切地知道它将会干什么，以及不会干什么……真令人毛骨悚然。”
+
 *“...I’m thinking that mostly as a user...you install an app and it wants permissions. I’m always like, ‘Why does it need that, it doesn’t need that,’ you don’t want to read \[the privacy policy\] you just click okay...it’s a problem...you can’t trust these apps...they can access all your data and all with any webpage you visited...I find that very frustrating as*
 
 *a user it ought to be more precise about exactly what it’s going to do and what it won’t do...it’s just creepy.”*
 
 ### 安全性
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_security.svg" height="221">
 
-Rounding out the top ten needs is security, coming in at tenth:
+使前十的需求完满的是安全，排名第十：
 
-&#35; 10 Understanding and implementing security measures.
+\# 10 理解并实现安全措施。
 
 What did we learn about security from the pilot interviews that lead to this need? First, let’s look at how people defined security. Developers used terms such as authentication and privacy in their definitions.
 
@@ -749,7 +754,7 @@ As you can see with the perception that security feels like a hack and being tie
 
 ### 测试
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg" height="255"/>
 
 During the kickoff meeting for this project, stakeholders shared their thoughts on what was already known about testing. What was captured is that automated testing is hard to get started and there are many different types of testing like unit, integration, and functional. What was unknown was the types of tests developers are running and how or if that causes frustration.
 
@@ -784,7 +789,7 @@ The types of tests developers run varies as do the tools they use to test.
 
 ### 验证
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_authentication.svg" height="200"/>
 
 Authentication was often described as difficult and frustrating for a variety of reasons, but mainly due to the complicated nature of it and the threat that exists if you get it wrong. However, authentication can be easier if a developer is willing to divest control to a third party.
 
@@ -802,7 +807,7 @@ Authentication was often described as difficult and frustrating for a variety of
 
 ### 性能
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg" height="143"/>
 
 Performance was not often mentioned as one of the top items that causes frustration, however, it is something that developers find important. It’s important because it directly impacts the users’ experience on a site. Performance also ties back to a broad view of accessibility where a site should perform across a range of devices.
 
@@ -846,7 +851,7 @@ During the kickoff, stakeholders had questions about what it means to be perform
 
 ### 本地化
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_localization.svg" height="176"/>
 
 The frustrations developers experience with localization expand beyond the traditional notion of accounting for the visual impacts of different languages, although that can be a source of frustration. Localization can mean understanding cultures and preferences in those cultures in terms of how people formally write their names so that you
 
@@ -862,7 +867,7 @@ can account for that when designing input fields or understanding date and time 
 
 ### 变化速度
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_paceofchange.svg" height="112"/>
 
 Developers acknowledge the web is an environment that changes, often quickly. It’s a reality that they’ve come to accept — almost with an air of resignation.
 
@@ -884,7 +889,7 @@ Not all change is bad, as change can lead to advancements in technology and more
 
 ### 无障碍
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_accessibility.svg" height="136"/>
 
 Similar to authentication, accessibility, developers described it as difficult and frustrating. Developers understand the steps to follow to make a site accessible, but sometimes those steps are hard to get right, and the standards leave a lot to be desired. Often, a developer might be in a situation where their organization does not prioritize accessibility because, perhaps, it hasn’t come up as an issue, yet. The awareness of the need isn’t there. In these cases, accessibility is seen as less important than the time and effort required to implement it correctly.
 
@@ -902,7 +907,7 @@ Some of the pilot interview findings shed light on needs that are outliers, whic
 
 ### 运维
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" height="168"/>
 
 When referring to Ops, we mean anything related to creating the build and deploying it.
 
@@ -918,7 +923,7 @@ The audience who participated in the pilot interviews found Ops to be a source o
 
 ### 工具
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" height="168"/>
 
 Tools is a broad subject with ties to other areas of web development such as debugging, testing, and browser compatibility. Developers are frustrated by the pace of change in the tools arena. It is difficult to keep up with what exists. Even if they feel up to date on their options, deciding which tool to use can be a chore.
 
@@ -948,7 +953,7 @@ Obviously, \[tools are\] important because I’m using them all day, every day. 
 
 ### 与他人协作
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" height="168"/>
 
 Some of the pilot interview participants work on a team with others, which can cause frustrations. This is not unique to web developers, but how it impacts them is that it can create a more complex environment for managing code, and it can also dictate project requirements. There are also perceptions of different types of developers which color team dynamics. Most of these came about during deployment.
 
@@ -968,7 +973,7 @@ Some of the pilot interview participants work on a team with others, which can c
 
 ### 雇佣 Web 开发者
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" height="168"/>
 
 What we heard about hiring can be summarized with two additional need statements:
 
@@ -982,7 +987,7 @@ We learned during the pilot interviews that different regions of the world have 
 
 ### 基础设施建设的不同
 
-![](https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg)
+<img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_outliners.svg" height="168"/>
 
 This refers to intermittent power outages that affect business decisions, e.g., where to locate data centers. We experienced the impact of this first hand while trying to conduct the interviews. One of the participants was located in an area where they were experiencing intermittent power outages and was unable to complete the interview.
 
@@ -1156,7 +1161,7 @@ When it comes to the future of the web, these seasoned developers are excited fo
 
 * WebAuthn
 
-* Speech to Text
+* 语音转文字
 
 *“WebAssembly is going to change the web. This guy is an insane level of importance. It’s going to change the web from being a mostly consumption light editing environment to a fully-featured editing environment. It provides an increase in speed that is unheard of for the web.”*
 
@@ -1182,7 +1187,7 @@ Though there are things to look forward to, there is a concern, and it’s not c
 
 *“The Google web platform team is now using Developer Satisfaction (DSAT) as one of our top-level success metrics. We are excited to be using the MDN DNA as one of the main sources of data to help us to understand and prioritize the key areas of developer frustration.”*
 
-**- Rick Byers, Director of Engineering for Blink, Web Platform Team**
+**- Rick Byers, Blink 工程总监, Web Platform Team**
 
 *“Google has been working with other Chromium contributors, such as Intel, to bring access to hardware capabilities to the web, from cameras and sensors to gamepad, USB and Bluetooth APIs. We believe that any task users want to accomplish with their devices should be possible with the web, so are continuing to work on web standards to* *expose additional sensors, Serial, HID, NFC, and more.”*
 
@@ -1190,15 +1195,15 @@ Though there are things to look forward to, there is a concern, and it’s not c
 
 **W3C**
 
-*“Early reports from the survey provided valuable input to several standardization and pre-standardization discussions at W3C’s big annual meeting (TPAC). We anticipate the published report will continue to support standards progress.”*
+“这项调查的早期报告为 W3C 大型年会 (TPAC) 上多次标准化以及标准化前讨论提供了宝贵的信息。我们预计已发布的报告将继续支持标准的进程。”
 
-**- Wendy Seltzer, Strategy Lead**
+**- Wendy Seltzer, 战略主管**
 
 **Mozilla**
 
-*“In the Firefox team we are always listening to our community’s needs in order to make product decisions. The comprehensive overview of the developer community’s needs provided by the MDN DNA report is therefore absolutely essential to us and we are already incorporating its findings into our plans.”*
+“在火狐团队中，我们始终听取我们社区的需求，以便做出产品决策。因此对于开发者社区需求的的全面概述对于我们来说绝对必要，它由 MDN DNA 报告提供，我们已经将它的调查结果融合进我们的计划。”
 
-**- Panagiotis Astithas, Sr. Engineering Manager, Firefox Developer Experience**
+**- Panagiotis Astithas, 高级工程经理, 火狐开发者体验**
 
 除了个人组织的行为以及互操作性是 Web 开发人员的主要痛点，主要的浏览器供应商正在合作开发跨浏览器测试套件，例如 Web 平台测试和 Test262。从事网络平台测试的小组已将2020年作为优先事项，以识别和修复最重要的测试失败并提高测试套件的质量。
 
