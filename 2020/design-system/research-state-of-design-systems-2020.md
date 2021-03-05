@@ -71,7 +71,7 @@
 公司创建内部设计系统的前三个原因是：
 1. 最能代表他们公司的品牌（27％）
 2. 解决其产品的特定用例（22％）
-3. 框架或技术堆栈限制（14％）
+3. 框架或技术栈限制（14％）
 
 ![图 2：提供创建内部设计系统原因的响应百分比（350份数据）](https://lh3.googleusercontent.com/TdaJWw-tzmMC4eAaQCfRtRUfxDVOjKtdYs_G093UovcWgxxXppfbvXBMgh9zSYjCQKludbKCpfLqMTa3QQ3Gn2cUpbnVGimjOLqO5Q=w1064-v0)
 <div style="text-align: center;"><small>图 2：提供创建内部设计系统原因的响应百分比（350份数据）</small></div>
