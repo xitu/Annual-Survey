@@ -20,6 +20,10 @@
 * [State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 * [2021 年 JavaScript 测试框架回顾](https://github.com/xitu/gold-miner/blob/master/article/2021/a-review-of-javascript-testing-frameworks-in-2021.md)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 
+### 后端
+
+* [Go Developer Survey 2020 Results](https://github.com/xitu/gold-miner/blob/master/article/2021/Go-developer-survey-2020-results.md)（待翻译）
+
 ------
 
 ## 2019
