@@ -22,7 +22,7 @@
 
 ### 后端
 
-* [2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943955783067385892)（[黄龙吐翠](https://github.com/samyu2000) 翻译）
+* [2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943540695030300708)（[黄龙吐翠](https://github.com/samyu2000) 翻译）
 
 ------
 
