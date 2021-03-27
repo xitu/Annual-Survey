@@ -22,7 +22,7 @@
 
 ### 后端
 
-* [Go Developer Survey 2020 Results](https://github.com/xitu/gold-miner/blob/master/article/2021/Go-developer-survey-2020-results.md)（待翻译）
+* [2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943955783067385892)（[黄龙吐翠](https://github.com/samyu2000) 翻译）
 
 ------
 
