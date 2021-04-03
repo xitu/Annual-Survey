@@ -680,30 +680,26 @@ Web 开发者对于利益相关者来说有许多未知之处，其中之一就�
 
 “我认为**隐私**更多地是针对**终端用户**而不是作为**开发者**的我……作为一个用户，我感觉现在安全多了，现在的隐私相比一年半以前更加安全，因为……如果你身在欧洲，通用数据保护条例将会使你的数据保存在更加合适的地方。”
 
-“”
-*“It feels like many services and apps...are designed to mislead people that don’t know about the technicalities. I think \[privacy\] is super important and it’s frustrating that it’s hard to protect users, but I think this should improve with regulations...with laws like GDPR from Europe. I mean, it’s the only way really. Tech solutions like the Do Not Track setting in your browser...I’m sure people wanting to track you \[will\] exploit your data and everything. They will always find ways unless it’s really regulated. I don’t think that technology alone can protect people.”*
+“感觉有很多的服务和应用……故意设计成误导那些不懂技术细节的人们。我认为**隐私**超级重要，但令人沮丧的是，保护用户实在太难了，但我认为有了法规这种情况能得到改善……比如欧洲的通用数据保护条例（GDPR）。我是说，这是唯一的解决方法。技术层面的解决方案比如浏览器内的‘请勿跟踪’设置……我确信那些想要跟踪你的人**会**利用你的数据及一切。除非得到真正的监管，他们总会找到方法这么做。我不认为仅靠技术手段可以保护人们（的隐私）。”
 
-*“...the impact \[of GDPR\]...we have to do the work to ensure that when people ask for us to delete the data, we need to ensure that we are deleting all the data that we have from them...that means deleting anything for logs, making sure that everything is deleted from all databases...before this we were still doing that kind of work but we didn’t have the same pressure I suppose...and it wasn’t clear for users that they had the right to exercise that...”*
+“…… **GPDR** 的影响……我们必须做好工作，以确保当人们要求我们删除数据时，所有从他们那里获取的数据都被删除……这意味着删除日志中所有内容，确保从所有的数据库中删除所有相关数据……在此之前，我们已经在做这样的工作了，但是没有像现在这样大的压力……此外用户仍然不清楚他们是否有权行使该权利……”
 
-*“privacy...that depends on the company where you work honestly. In Europe, \[privacy is\] much easier...because you have to specify everything you do and they have to be able to delete everything. GDPR helps so much.”*
+“隐私……说实话这得看你在什么公司工作。在欧洲，**隐私问题**要容易得多……因为你必须列举你所做的一切事情，并且他们可以消除这一切数据。GPDR 真的是帮大忙了。”
 
-*“\[Privacy\] that’s a big one...we just pass the Assistance and Access Bill, a huge blow to the Australian security and IT industry...you can be instructed to make changes to your app so that the government can get access to it, and you’re not allowed to tell anyone. It’s at the forefront of everyone’s minds here...if I were to go look for another job, there’s plenty of companies who said they don’t want to hire devs in Australia anymore because we’re suddenly a security risk.”*
+“**隐私**非常重要……我们刚刚通过了协助和访问法案，对澳大利亚的（网络）安全业以及 IT 行业造成了沉重的打击……你可能会被指示对自己的程序进行修改，以便政府访问它，并且你不允许告诉任何人。这是人们心目中最重要的一点。在这里，如果我要找另外一份工作，大概有很多公司会说他们不想在澳大利亚招开发人员，因为我们突然面临安全隐患。”
 
+除了围绕隐私的法律法规之外，试探访问也揭示出隐私是个人化的。当讨论隐私的时候，首先要注意保护自己作为网络用户的隐私，其次是隐私在其工作中的作用。当提及保护他们个人隐私以及他们用户的隐私时，开发者对此感到十分困难。人们认为维护他们的隐私，并认为隐私是他们所珍视的，因此他们也尝试维护用户的隐私安全。维护隐私伴随着对开发者可访问的功能的权衡。
 Beyond the laws and regulations surrounding privacy, the pilot interviews revealed that privacy is personal. One thing top of mind when discussing privacy was protecting their privacy as a user of the Web, followed by the role of privacy in their work. When it came to protecting their own privacy and the privacy of their users, developers felt it is hard to do. There is a belief that maintaining their privacy is their right, and it is something they value, so they try to keep their users’ privacy safe too. Maintaining privacy comes with tradeoffs in terms of the features you’re able to access.
 
 “你问我为什么隐私很重要？因为这是我的权利啊。”
 
-*“When I use the web, I feel uncomfortable. I ask myself, ‘Is this secure enough or will I have to use incognito version?’ I’m not sure how much I can protect my information and security on the web...what is important for me is that I keep these values in doing my development.”*
+“当我使用网络时，我感到不适。我问我自己，‘这是否足够安全，或者说我是否必须使用隐私模式？’我不确定在多大程度上，我可以保护我在网上的信息和安全……非常重要的一点，在开发过程中我必须保持这些数据。”
 
-*“...it’s quite frustrating to protect my privacy on the web, but it’s really important for \[users\] to keep their privacy safe. I think most developers should consider this when they build a website. As a consumer, I think it’s really important to keep my privacy safe. I don’t want to give my specifics or I don’t want to receive any ads based on my activity on the web.”*
+“……在网络上保护我的隐私十分令人沮丧，但这对于**用户**来说，保障他们的隐私安全非常重要。我认为大多数开发者在他们搭建网页的时候应该考虑这一点。作为一名消费者，我认为保障我的个人隐私安全非常重要。我不想提供个人的详细信息，我也不希望收到任何基于我在网络上的活动的广告。”
 
-*“...being a German \[privacy is\] very important to us...I think this is the hardest part to achieve typically because you want to have all these cool features, want to use all these platforms, so it’s hard to achieve privacy, but still, at the same time it’s very important to us...this is one of the most difficult issues and that’s why I’m using Firefox and not Chrome for instance today.”*
+“作为一个德国人，**隐私**对于我们来说非常重要……我认为这是最难实现的部分，通常是因为你总想着拥有各种各样很酷的功能，想使用各种各样的平台，因此很难实现隐私（保护），但是与此同时，这对于我们来说非常重要……这是最棘手的问题之一，这也是今天我为什么拿火狐浏览器而不是 Chrome 举例。”
 
-“……我认为作为用户……你安装了一个应用，然后它向你索取权限。我总觉得，‘为什么它要那权限？它根本没有必要’，你也不会想阅读**隐私政策**，你就直接点了‘是’……这是个问题……你不能相信这些应用……它们可以访问你所有的数据以及所有你浏览过的网页……我很沮丧地意识到，作为一个用户，他们应该更确切地知道它将会干什么，以及不会干什么……真令人毛骨悚然。”
-
-*“...I’m thinking that mostly as a user...you install an app and it wants permissions. I’m always like, ‘Why does it need that, it doesn’t need that,’ you don’t want to read \[the privacy policy\] you just click okay...it’s a problem...you can’t trust these apps...they can access all your data and all with any webpage you visited...I find that very frustrating as*
-
-*a user it ought to be more precise about exactly what it’s going to do and what it won’t do...it’s just creepy.”*
+“……我认为作为用户……你安装了一个应用，然后它向你索取权限。我总觉得，‘为什么它要那权限？这根本没有必要’，你也不会想阅读**隐私政策**，你就直接点了‘是’……这是个问题……你不能相信这些应用……它们可以访问你所有的数据以及所有你浏览过的网页……我很沮丧地意识到，作为一个用户，他们应该更确切地知道它将会干什么，以及不会干什么……真令人毛骨悚然。”
 
 ### 安全性
 
@@ -713,42 +709,39 @@ Beyond the laws and regulations surrounding privacy, the pilot interviews reveal
 
 \# 10 理解并实现安全措施。
 
-What did we learn about security from the pilot interviews that lead to this need? First, let’s look at how people defined security. Developers used terms such as authentication and privacy in their definitions.
+我们从这个导致这个需求的试点访谈中学到了什么关于安全性方面的事情？首先，看看人们是如何定义安全性的。开发人员会在定义中使用诸如身份验证和隐私之类的术语。
 
-*“Security means that no one can get access to any part of the system that they are not authorized to access, and no one person can see any data from the system that they’re not allowed to access.”*
+“安全性意味着任何未经授权的人无权访问系统的任何部分，任何未经许可的人都无法查看系统中的数据。”
 
-*“\[When I think about security\] I think about authentication...how do you successfully guard against malicious login or malicious attacks on things that are supposed to be secure.”*
+“**当我考虑安全性的问题时**，我会想到身份验证……如何防范恶意登录或者对本应安全的事物的恶意攻击。”
 
-*“...\[a site\] is considered secure \[if\] it’s working in the way you intended, respecting all the access rules...when your users are aware of what’s happening with the data, \[and\] when the data users submit is only used for what they intended \[it\] to \[be used for\].”*
+“……**如果**一个网站以预期方式工作着，遵守着所有的访问规则……比如你的用户知晓数据如何被处理，**以及**用户提交的数据仅被用作**其预期用途**，**这个网站**会被认为是安全的……”
 
-*“Security to me is like the authenticity of data, authentication of users, and being sure that the other guy I’m exchanging data with is the guy he pretends to be...it’s very important to have trust so that your users know that they receive data from you and send data to me. I think authentication here is key.”*
+“对于我来说，安全性就是数据的真实性，对用户进行身份验证，并确认其他试图与我交换数据的人是假冒的……信任非常重要，这样你的用户就会知道他们获取的数据是从你那里来的，他们发送的数据是交给你的。我认为身份验证是关键。”
 
-*“Privacy is about keeping people’s data safe whereas security can have further implications like your app being brought down or somebody hacking it \[so it\] no longer does what you’re expecting it to do. Like proper password protection and stuff to stop people’s accounts* *from being able to get hacked, and then that information being used for other stuff...so privacy is a part of security.”*
+“隐私是关于保障人们的数据安全，而安全性可能会带来进一步的影响，比如你的应用被攻破，或者有人破解它**因此**不再按预期执行。比如合理的密码保护以及阻止用户账号遭到入侵的手段，以及随后这些信息被用作其他用途……因此，隐私是安全性的一部分。”
 
-Beyond the definitions of security, the main thing we heard is that web developers don’t know enough about security which creates a feeling of concern and frustration that someone with more knowledge can find and exploit security flaws. This feeling causes stress, especially because security is viewed as very important.
+除了安全性的定义以外，我们主要听说的是 Web 开发人员对安全性认识不足，这会产生一种对大神会发现并利用这些安全缺陷的担忧和挫败的感觉。特别是因为安全被看得非常重要，这种感觉会造成很大压力。
 
-*“Security is one of those things that I’m sure we should be doing better on, we haven’t had any issues yet, but all you need is one issue...”*
+“安全性是我确信我们应该做得更好的事情之一，我们还未遇到问题，但是需要的只是一个问题……”
 
-*“I always have concerns that there are security issues that I haven’t figured out yet. I’ve thought very hard about whether or not it’s possible for malicious third parties to authenticate as someone else...I haven’t figured \[it\] out yet but I feel like I’m not quite smart enough in this area, to know whether or not that’s possible.”*
+“我总是担心有的安全问题我还没有发现。我绞尽脑汁考虑是否可能让第三方恶意软件以另一个人的身份通过验证……我还没有弄清楚**答案**，但我感觉在这个领域我还不够聪明到知晓某件事是否可行。”
 
-*“...\[with security\] I always have this fear...I use JWT to authenticate my request after initiating. I always have that doubt that it’s not unbreakable...a good hacker might be doing that...I think there are a lot of things to be learned and steps to be followed. I have not done that. Maybe it’s my ignorance on that side.”*
+“……**说到安全性**我一直对此感到恐惧……我在启动以后就使用 JWT 对我的请求进行身份验证。我一直怀疑它是否坚不可摧……一个优秀的黑客可能正这样做……我认为有好多事要学习，有很多步要走。我还没做到那一步。也许那就是我的无知吧。”
 
-*“Security is very important for any of our customers at any time for anyone to be honest...you have to make sure that \[user\] data is contained with us...applying security it’s very frustrating because I myself am not very good at security and I personally feel that there are not enough online resources that actually explain why your security might be flawed or what are you doing wrong that might lead to flaw in secu- rity. Mostly, I don’t really understand security.”*
+“坦白地说，安全性对于任何时候的任何客户而言都是非常重要的……你必须确保**用户**数据包含在我们之中……应用安全性非常令人沮丧，因为我本人并不擅长于安全性， 我个人认为没有足够的在线资源来真正解释为什么你的安全性可能存在缺陷，或者你做错了什么可能导致安全性缺陷。 通常来说，我不太了解安全性。”
 
-We also heard that the ways to implement security feel like a hack in and of themselves, which is a result of the evolution of the web. As security became important, new ways of ensuring security evolved out of necessity, but those were reactionary developments.
+我们听到说实现安全的方法就像是对自身的补丁，这是网络发展的结果。随着安全性变得更重要，确保安全性的新方法已经没有必要发展，但这些是反变革的发展。
 
-*“Security is so important...having bad security can be catastrophic  
-for your business and for individuals. It’s one of the most important things right now...every other day there is some breach and a lot of user data is exposed. It’s so bad...it’s so frustrating because it’s so hard to get it right. There are so many things on the web that are broken from the beginning because the way that the web has evolved...it’s really hard to get it right. Many of the things that we’ve used in the past for security to protect things like tokens...they feel like a patch*
+“安全是如此重要……对于你的企业和个人来说，糟糕的安全性是灾难性的。这是目前最重要的事情之一……每隔几天就会出现漏洞，然后大量的用户数据被泄露。这太糟糕了……因为要让它恢复正常实在太难了，这十分令人沮丧。网络上有很多东西一开始就被攻破了，因为这是网络发展的方式……真的要做好很难。很多我们过去在安全方面使用的很多方法来保护比如令牌之类的东西……感觉他们就像个补丁或者盖在整个系统上的优化模块……让你的应用真正安全是不可能的，**因为**那并不存在。协议和基础库中的所有事物总会有漏洞……同时又是如此的困难和重要。”
 
-*or a hack on top of the whole system...feeling that it’s impossible to get your app to be truly secure \[because\] that doesn’t exist. There will always be vulnerabilities in everything in protocols and fundamental libraries...it’s so hard and so important at the same time.”*
+我们听到的第三点内容是安全性是与用户的双向关系。如果安全性出了问题，则会对用户产生负面影响。然而，虽然你能尽你所知实现最佳的安全功能，但是如果用户通过密码访问网站，你作为一个 Web 开发者，你几乎不能控制他们是否使用安全的密码。
 
-The third thing we heard about security is a two-way relationship with users. If you get security wrong it adversely affects users. However, you may implement the best security features you know how to, but if users access a site through passwords, as a web developer you have very little control over whether or not they choose a secure password.
+“安全性不可或缺……它需要太多的精力，并可令人沮丧……因为这是你不想出错的事情。这可能会让你压力倍增，因为出错对于你的用户来说将会是一件非常糟糕的事情。”
 
-*“Security is essential...it requires so much attention, and it can be frustrating...because it’s something that you don’t want to get wrong. It’s going to stress you out because getting it wrong might be a really bad thing for your users.”*
+“……我尝试确保人们在我们的系统上**使用**更好的密码……我们为他们提供了成品服务器以及开发用服务器……‘123’是他们的密码。我必须确保他们更换掉那个强度很弱的密码，但有的时候我们不知道他们正在使用的密码，因为这是他们的密码，我不应该知道的。我们发现我们的安全性仅仅和我们用户使用的密码一样。”
 
-*“...I’m trying to make sure that people \[use\] better passwords for our system...we give them logins for the production server and also a staging server...‘123’ is their password. I have to make sure that they change that but sometimes I don’t know what password they’re using because it’s their password, I’m not supposed to know it. What we find* *is that we’re only as secure as the passwords that our users use.”*
-
-As you can see with the perception that security feels like a hack and being tied to customer logins, security is closely related to needs or frustrations that might arise due to the pace of change of the web and authentication.
+正如你所见，安全性问题就像是补丁，并和用户登录相关联，安全性与需求或者由于网络和身份验证演变的步伐而产生的挫败感及其相关。
 
 ### 对剩下的需求的更深入挖掘
 
@@ -756,35 +749,37 @@ As you can see with the perception that security feels like a hack and being tie
 
 <img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_testing.svg" height="255"/>
 
+在这个项目的启动会议上，利益相关者分享了他们关于测试已知情况的想法。归纳出的几点有：自动化测试难以开启，此外存在许多不同类型的测试，比如单元测试、集成测试以及功能测试。未知的点有：开发者运行的类型、以及如何或是否会造成挫败感的测试类型。
 During the kickoff meeting for this project, stakeholders shared their thoughts on what was already known about testing. What was captured is that automated testing is hard to get started and there are many different types of testing like unit, integration, and functional. What was unknown was the types of tests developers are running and how or if that causes frustration.
 
+试点访谈显示，对跟踪所有可用工具来进行适当测试，对于 Web 来说自动化测试不总是适合的方法，有些开发人员对这些感到沮丧。
 The pilot interviews revealed that some developers feel that it’s frustrating to keep track of all the available tools to conduct a proper test and automated tests are not always an appropriate method for the web.
 
-*“The frustrating part \[about testing is\] not being aware of the tools available to conduct a proper test.”*
+“**关于测试**令人沮丧的部分是不了解进行适当测试的可用工具。”
 
-*“The web is not an automated test driven place because there’s too much interdependency between JavaScript, HTML and CSS. I didn’t really see the benefit of doing automated testing here...typically you react to user events and then change something on the UI...I think that is better tested by a human...while back end code that interacts with databases, servers, and stuff like this, where the logic is pretty clear that’s easily testable using unit testing or something...”*
+“网络不是自动化测试导向的地方，因为 JavaScript，HTML 以及 CSS 之间的相互依赖性太大。我在此并没有真正看到进行自动化测试的好处……通常你会响应用户事件，然后在 UI 上进行某些更改……我认为最好由人类进行测试……而后端代码与数据库、服务器或类似的东西交互，其中的逻辑很清楚，可以使用单元测试或类似的手段轻松地进行测试……”
 
-*“I don’t automate my test normally like you’re supposed to...I like it to run on both the server side and the client side, and I can test it interactively. It’s just not always possible to do things to automate the test... it’s not always clear how to do that, and how to check the result...if I can play around with it, that’s the way I like to test things. And it can be frustrating, it’s always frustrating when things don’t work.”*
+“我不会像你们认为的那样日常使用自动化测试……我希望它在服务器端和客户端两端同时运行，然后我可以交互地进行测试。并非总是能够自动化测试……如何做到自动化，以及如何检视结果的方法并不总是那样清晰……如果我能玩得转的话，那将是我喜欢的测试方式。当然，这可能令人沮丧，当事物不正常运作的时候，人总是会心累。”
 
-Participants felt testing can be frustrating because it can take a significant amount of time to write certain tests and the ease of writing those tests is related to a developers’ experience with testing.
+参与者对测试可能感到沮丧，因为编写某些测试可能要花费大量时间，而编写这些测试的难易程度又与开发人员的测试经验有关。
 
-*“A couple of reasons come to my mind immediately \[about why testing is frustrating\]. The front end testing it’s not always easy to do unit testing. That’s what I have felt. I have not written extensive test cases before...I know the importance of test driven development and we should write code for testing, and then only write the application so that it won’t fail, and those kind of things. Also, I think \[it’s frustrating\] because I haven’t done it that much. I always used to manually test my code...”*
+“我突然想到了几个关于**为什么做测试令人心累**的理由。前端测试做单元测试并不总是很容易。这是我的感受。我之前没有写过广泛的测试用例……我知道测试导向开发的重要性，以及我们应该为测试写代码，然后再编写应用程序，以确保程序不会失败，以及诸如此类的事情。此外，我对用自动化测试得不够多而**感到沮丧**。我总是手工测试我的代码……”
 
-*“Some projects you might not have time to do the unit tests, there is  
-a time factor involved where you don’t have the time to write first the test cases, then you write the code that is failing, and then you have to make it pass. We don’t have that kind of time for the project, because it’s a quickly moving product.”*
+“在有的项目中，你可能不够时间进行单元测试，这涉及到时间因素，你没有时间先编写测试用例，然后再写失败用例，然后你要想方设法让它通过测试。我们没有那么多的时间来做这个项目，因为这个是个快速迭代的产品。”
 
-*“We also do system tests that are harder to write \[than unit or integration tests\] because there are more things to consider \[and more\] time consuming to write when considering all the interactions with the browser. That’s why testing is not zero frustration.”*
+“我们还进行了**比单元测试或集成测试**更难编写的系统测试，因为在考虑与浏览器的所有交互时，**有更多**的事情要考虑编写，并且要花更多的时间编写。 这就是测试不是零挫折的原因。”
 
-Opinions did differ, slightly. On the flipside of not having the time to test, is the belief that taking the time to run tests can reduce stress.
+意见的确有所不同。没有时间进行测试的另一面是，相信花时间运行测试可以舒缓压力。
 
-“Wow, if you’re a developer, \[testing is\] your bread and butter. It shouldn’t be stressful to test, it should be something that you want to do. Because you know this is going to actually reduce stress.”
+“哇噻，如果你是一名开发人员，**测试就是**你的工作。测试不应该感到压力，它应该成为你想做的某件事。因为你知道这一点将会在实际上减少压力。”
 
-The types of tests developers run varies as do the tools they use to test.
+开发人员运行的测试类型以及他们用来测试的工具都有所不同。
 
-*“\[I do\] unit testing, but it’s component level testing. A single compo**nent testing TypeScript and HTML together...we used to test JavaScript, whereas now we try to test the whole component together...the back end devs do some kind of back end testing. We’ll run automated end to end tests, you login and go through a flow on a page. We were using Protractor and Selenium. Now we’re using Test Cafe and we do a heap of manual testing. We have as many testers as we have devs, and they do all of the cross browser testing, cross device testing, all that kind of stuff.”*
+“**我进行**单元测试，但这是组件级测试。一个单独的组件同时测试 TypeScript 和 HTML ……我们曾经测试 JavaScript，而现在我们整个组件一起测试……后端开发人员做后端测试。我们会运行自动的端到端测试，登录然后走完页面上的全部流程。我们使用的是 Protractor 和 Selenium。现在我们使用 Test Cafe 也做大量的手动测试。我们拥有与开发人员一样多的测试人员，他们负责所有的跨浏览器测试、跨设备测试以及所有此类工作。”
 
-*“\[I run\] as many tests as possible. I’m a true believer of the green-red testing, then integration tests to make sure things work, and then use Cypress or Puppeteer...maybe your QA is going to use Selenium...you’ll have to cover the critical path of your website, at least with end to end testing...there’s so much choice...you can test it by checking the values, you can abstract other things in a snapshot testing. As long as you are able to check your volume on your logic, and then check that your components are well structured, you should be in a good position to iterate quickly without worrying too much about what could break.”*
+“**我运行**尽可能多的测试。我是红绿测试的坚定拥护者，然后是确保正常工作的集成测试，接着使用 Cypress 或者 Puppeteer……也许你的质量保证人员将会使用 Selenium……你必须涵盖网站的关键路径，至少要进行端到端测试……测试的选择有太多了……你可以通过检查值来进行测试，也可以在快照测试中抽象化其他内容。只要你能够根据你的逻辑检查卷，然后检查组件的结构是否良好，你应该能够快速迭代，这样就不必过多担心会出现什么问题。 ”
 
+“...在测试方面，所有 Angular 测试工具都将所有异步代码平展，并神奇地使其同步，以便您可以理解它并更轻松地跟随流程。”
 *“...on the testing side, all of the angular testing tools they just flatten out all of your asynchronous code, and magically make it synchronous so that you can understand it and follow the flow more easily.”*
 
 ### 验证
@@ -793,60 +788,72 @@ The types of tests developers run varies as do the tools they use to test.
 
 Authentication was often described as difficult and frustrating for a variety of reasons, but mainly due to the complicated nature of it and the threat that exists if you get it wrong. However, authentication can be easier if a developer is willing to divest control to a third party.
 
-*“It’s hard to write a secure API for mobile apps to authenticate against. There are flows but they are very convoluted. \[It’s\] not nice for users and not nice for developers to implement. The whole authentication mechanism with passwords and everything that feels like it should be much easier, especially with mobile where you have other ways to authenticate...like using your fingerprint or using your face. I hope it improves with standards, but it still feels very frustrating in the sense that is so hard to get it right.”*
+“很难为移动端应用编写安全的 API 进行身份验证。存在有流量，但是它们非常复杂。对于用户来说并不友好，而对于开发者来说不好实现。使用密码或者类似的东西的整个验证机制应该轻松不少，特别是在移动设备上你有其他的方法进行验证……比如指纹识别或者脸部识别。我希望它能随着标准的改进提升，但是当想到让它正确执行很难，依旧让人心累。”
 
+“OAuth2……是个某种复杂的东西……令我最烦恼的是登录谷歌或者脸书，尽管它们使用的是同一个应用，被使用的代码一团糟。尽管它们使用的是同一个协议，它们并不完全相同，他们真的迥乎不同……我从下载……一段运行在服务器上的推荐代码开始……尽管它们使用的是同一种协议，但直到实际操作才发现，将它们部署到我的服务器的方式以及它们的处理方式完全不同。这真的十分令人疑惑，它**本该**更简单的。”
 *“OAuth2...it’s a complicated sort of thing...the thing that bothered me about it more than anything was that \[logging in with Google or Facebook\] even though they use the same app, the code that was used \[was\] messy. Even though they were using the same protocol, they weren’t really the same, they were just really different...I started downloading...a piece of suggested code to run on the server...even though they’re using the same protocol they were so different as far as actually setting them up on my server and how to handle it...it was just confusing, it all \[should\] be simpler than that.”*
 
-*“I think the whole the whole notion of authentication and authorization it’s just fraught with difficulty...you’ve got people out there all the time, they’re trying to screw with it, trying to break it. It’s difficult and frustrating and important.”*
+“我认为整个验证和授权的概念充满着困难……你随时可能遇到那种尝试搞事情以及攻破它的人。太难了，太心累了，又太重要了。”
 
+“身份验证通常来说是一场梦魇……每当出现了不透明的抽象层，随后这事就迅速演变成，‘哦，这是个加密哈希算法，’我不知道这是啥，并且坦白说，我的那些拿到了计算机科学的学士学位的老兄也搞不懂。这样一来它很快就会成为“少数人的专利”，大部分的人都无法涉足。那甚至无视了一个问题，‘你打算把这些信息储存为 cookie，还是储存为 JSON Web 令牌？’怎么说，这是个有着大量尖端的新兴科技。但现在趋势朝着背离 JSON Web 令牌的方向发展……”
 *“Authentication is generally a nightmare...I’m not that comfortable when there’s opaque layers of abstraction, and authentication very rapidly becomes like, ‘Oh, there’s this encrypt hashing algorithm,’ I*
 
 *don’t know what that is and frankly, neither do any of my buddies who actually got bachelor’s degrees in computer science. It rapidly becomes impenetrable save for certain people. And that’s even setting aside the issue of, ‘Are you storing this as a cookie, or are you storing this as a JSON Web Token?’ Well, that’s a new technology that has a ton of pointy edges. And now the tide is moving against JSON Web tokens...”*
 
+“部署身份验证，如果你亲自把关那讲是一场梦魇。或者，如果你愿意放弃对一切的掌控，那这事就相当简单了，就是 Web 开发中的主题之一。”
 *“Setting up authentication is either a bit of a nightmare if you’re doing it yourself, or it’s incredibly simple, if you’re willing to just divest yourself of control over everything, just a leitmotif, a theme in web development.”*
 
 ### 性能
 
 <img src="https://insights.developer.mozilla.org/reports/assets/images/web-developer-needs-assessment-2019/p18_performance.svg" height="143"/>
 
-Performance was not often mentioned as one of the top items that causes frustration, however, it is something that developers find important. It’s important because it directly impacts the users’ experience on a site. Performance also ties back to a broad view of accessibility where a site should perform across a range of devices.
+性能很少作为（开发中）令人心累的罪魁祸首之一被提及，然而，开发者认为它很重要。说它重要是因为它直接影响用户使用网站的体验。性能还与广泛的可访问性联系在一起，也就是说网站应该在各种设备上都能运行。
 
-*“Performance can affect a lot of users’ experiences \[and whether\] they stay on the page...they need to see something...with information as soon as they land. It’s one of the things to keep the user on the site or the application.”*
+“性能可以影响许多用户的体验，并决定他们**是否**停留在这个网页上……当他们进入这个网页后，能够浏览到……某些信息。这是做到让用户继续访问你的网站或者应用的要点之一。”
 
+“性能应该与隐私、测试、工具、可访问性一道作为首要处理的事情，是因为你希望不论在何处、连接状况如何、使用的是什么设备，你的用户都能访问你的网站。”
 *“Performance that should be your first things together with \[privacy, testing, tools, and accessibility\] because you want the user to be able to reach your website anywhere, no matter the connection no matter the device.”*
 
+“**性能**在许多方面与可访问性紧密联系，这使得它十分重要。如果你的应用又臃肿又速度慢，会对于用全新的 MacBook的用户造成困扰，但使用低端手机的用户会无法使用，此外还会浪费用户的带宽、下载之类的资源。所以在那个层面非常重要……”
 *“\[Performance\] is closely tied to accessibility in a lot of ways, which makes it quite important. If your app is huge and slow then it’s annoying for someone on a brand new MacBook, but it’s unusable for someone on a low end phone, and wasting people’s bandwidth and download and stuff. So it’s important in that respect...”*
 
-*“Performance in terms of user experience, I think it’s very important to ensure that your app or your project is performing the way \[your users\] expect it to...”*
+“就用户体验而言，性能方面，我认为有一点非常重要，那就是确保你的应用或项目是顺着**你的用户**的思路来执行。”
 
-*“...the page should load quickly and shouldn’t keep the user waiting.”*
+“……网页应该快速加载，而不是让用户一直等待。”
 
-Developers referenced performance as a source of frustration because it’s hard to find the time to make a site perform well on low powered devices or difficult to pinpoint what is causing the performance issue. This fits with the survey results where, “Pinpointing
+开发人员认为性能是挫败感的根源是因为很难找到时机使得网站在低功耗设备上运行良好，或者很难定位是什么造成了性能问题。这和调查结果相吻合，28项条目中，“定位出现存的性能问题”排名第12位。性能是挫败感的根源的另一个原因是业务本身的性质。段时间爆发式增长的业务会损害系统，业务必须调整适应。
+Developers referenced performance as a source of frustration because it’s hard to find the time to make a site perform well on low powered devices or difficult to pinpoint what is causing the performance issue. This fits with the survey results where, “Pinpointing existing performance issues,” ranked as the twelfth need, out of 28. Another reason performance was mentioned as a source of frustration is the nature of the business itself. Businesses that experience rapid growth in a short amount of time strain systems and businesses must adapt.
 
-existing performance issues,” ranked as the twelfth need, out of 28. Another reason performance was mentioned as a source of frustration is the nature of the business itself. Businesses that experience rapid growth in a short amount of time strain systems and businesses must adapt.
-
+“很难找出是什么拖慢了你的应用程序。而且调试出偶然情况下是怎么或者什么影响了性能。我们必须分离各个部分，并尝试迭代地找出什么造成性能下降。”
 *“...it’s hard to find the thing that makes your application slow. And it’s hard to debug, sometimes how or what affects performance. We have to isolate everything and try to iteratively find out what’s degraded performance.”*
 
+“通常我不会因为性能的问题而心累，我认为不论是服务器端还是客户端都有大量的工具可以帮上忙……很多情况下，真正的困难是找到合适的时机来完成那份工作，以及确保你的应用在性能没那么好的手机上也能正常运作。”
 *“I don’t feel that frustrated with performance in general, I think that are a lot of tools both server side and client side that help...in many cases it’s just hard to find the time to do the work and to make sure that your app works on not as powerful devices.”*
 
-*“We’re doing a lot better. Six months ago, we were doing a lot worse with performance. The problem was that, \[and\] this is a good problem to have, we were constantly getting new \[users\]. We’re probably about 100,000 unique \[users\] every month \[whereas\] four months ago, we’re probably about 30,000. We’ve tripled in the last three months. That has put a lot of strain on our systems. We’ve had to work hard to... parallelize our computation.”*
+“我们已经有很大进步了。六个月前，我们在性能方面做得更加糟糕。问题在于，这是个好问题，我们不断地吸引来新的**用户**。现在我们每个月新增大概 100,000 名**用户**，**但**四个月前，每月新增数字才大约 30,000。最近的三个月，我们的用户数量翻了三倍。这给我们的系统带来了沉重的负担，我们不得不在计算并行化上花大功夫。”
 
-Developers referenced many server side and client side tools that help them resolve performance issues. Most often referenced were network debugging tools, developer consoles, Lighthouse, and New Relic tools.
+开发者们提到了很多帮助他们解决性能问题的服务器端和客户端的工具。最常被提及的是网络调试工具，开发者控制台，Lighthouse，还有 New Relic 工具。
 
-*“...with my current app that I’m working on, the performance is so bad that I just run it through Lighthouse, and that’s enough to say, ‘Hey, it’s taking eight seconds to load or 20 seconds to load sometimes... there’s some pretty obvious things that we can do.’ In my previous* *place, we got beyond that, where we needed to look more into the details of what we could work on, again Lighthouses was mostly what we used because it does give you a breakdown of stuff like that. There’s other Google tools that we’ve been using that I do not recall the name of...we’ve got monitoring and stuff that I can look at. Everyday, I get warnings, ‘Oh, the app is taking more than two seconds to respond...yep, that’s pretty standard.’ Those are driven from New Relic.”*
+“……至于我现在正在制作的应用，性能是如此糟糕，以致我只能通过 Lighthouse 来运行它，可以这么说，‘嘿，加载要花8秒，有时甚至20秒……很显然，有地方我们需要改进。’在我们以前的工作中，以前我们最经常用 Lighthouse ，因为。还有一个我们一直在用的谷歌工具我一时想不起来叫什么名字……这样我们就可以监控运行情况了。每天我都能收到警告，‘哦豁，应用花了两秒来响应……唔，那很标准。’这些”
+*“...with my current app that I’m working on, the performance is so bad that I just run it through Lighthouse, and that’s enough to say, ‘Hey, it’s taking eight seconds to load or 20 seconds to load sometimes... there’s some pretty obvious things that we can do.’ In my previous place, we got beyond that, where we needed to look more into the details of what we could work on, again Lighthouses was mostly what we used because it does give you a breakdown of stuff like that. There’s other Google tools that we’ve been using that I do not recall the name of...we’ve got monitoring and stuff that I can look at. Everyday, I get warnings, ‘Oh, the app is taking more than two seconds to respond...yep, that’s pretty standard.’ Those are driven from New Relic.”*
 
-*“I’ll go into the developer console and look at the network tab, and see how fast things are loading, how many round trips it’s making just to load the first page...you can fix by bundling stuff together into one file that loads instead of having to make twenty different trips to the server to get the pieces to put the page together...there’s a lot of different little tricks that you can do to make things load more quickly.”*
+“我会进入开发者控制台，并查看‘网络’标签，观察各个东西加载的速度，加载第一页请求要往返几次……你可以通过将部件捆绑成一个文件来加载，而不是与服务器进行二十个不同的往返请求取得组装成页面的所有的部件……有很多小技巧可以加速部件加载。”
 
+在项目启动过程中，股东对什么表现为高性能存有疑问。 试点访谈没有得出任何统一的定论，根据开发人员和他们正在从事的项目类型，高性能的标准各有不同。 开发人员是根据合乎自己的工作需要这一点来定义自己的性能指标。
 During the kickoff, stakeholders had questions about what it means to be performant. The pilot interviews did not reveal any one measure, instead it was unique to the developers and the types of projects they’re working on. Developers define their own performance metrics as needed in a way that made sense for their work.
 
+“我依据负载、交互时间以及请求数量来衡量**性能**。当然，衡量指标需要与不同项目的规则相适应。”
 *“I measure \[performance\] in terms of payload, time to interaction, and amount of requests. Of course, this needs to be set to comply on rules that change from project to project.”*
 
+“就我而言，我使用‘可接受的响应时间’来**衡量性能**……因为我主要在服务器上工作。我只看图表，尝试观察大部分的请求时间是不是在‘可接受的响应时间’之内。”
 *“In my case, I \[measure performance\] on what is an acceptable response time...since I work mostly in the server. I just look at graphs and try to see if most requests are within acceptable response time.”*
 
+“当然，你总能**列举出**某些**性能**指标……有时候非常简单。如果要进行视频通话……你需要对往返时间以及每秒帧数进行严格限制。我通常会定义一个性能的度量方式，它能让我对什么是好……我试图始终以某种方式对其进行衡量。 ”
 *“Well, of course, you will always \[have\] some kind of \[performance\] metric...sometimes it’s very easy. If you have a video conversation...you need to have some very hard limits on round trip or on frames per second. I typically try to define \[a\] performance measure, which gives me*
 
 *an indication of what good actually means...I try to always measure it in some way.”*
 
+“当我们讨论整个系统的时候，它们是性能的不同层面……从 Web 开发人员的角度，我们需要确保**我们用户**相信……即使它花的时间比预计的更长，他们也感觉不到花了很长时间。”
 *“\[When\] we’re talking about the entire system as a whole, they are different aspects of performance...from a web developers point of view, we need to make sure that \[our users\]...believes that, even if it takes longer than it should, \[it\] doesn’t feel like it takes a very long time.”*
 
 ### 本地化
