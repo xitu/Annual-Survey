@@ -34,7 +34,7 @@
 
 ### 前端
 
-* [MDN Web Developer Needs Assessment 2019](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.pdf)（待翻译）
+* [2019 年 MDN Web 开发者需求评估](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.pdf)（[PassionPenguin](https://github.com/PassionPenguin) 翻译）
 * [2019 前端工具调研](https://github.com/xitu/gold-miner/blob/master/TODO1/launching-the-front-end-tooling-survey-2019.md)（[EmilyQiRabbit](https://github.com/EmilyQiRabbit) 翻译）
 * [2019 版 web 浏览器现状](https://github.com/xitu/gold-miner/blob/master/TODO1/the-state-of-web-browsers-2019-edition.md)（[xionglong58](https://github.com/xionglong58) 翻译）
 * [TSLint in 2019](https://github.com/xitu/gold-miner/blob/master/TODO1/tslint-in-2019.md)（[LucaslEliane](https://github.com/LucaslEliane) 翻译）
